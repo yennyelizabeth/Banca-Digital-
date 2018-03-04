@@ -49,7 +49,7 @@ Link-2:<https://canvanizer.com/canvas/wdLcxWVebaK66>
 ### Identificar Stakeholders:
 
 | Stakeholders | Descripción | Tipo |Rol |
-| :----------- | :---------: | :---------: | ----------: |
+| :----------- | :---------: | :---------: | :---------- |
 | SBS          | Entidad reguladora | Externo |Regulador |
 | BCR          | Entidad reguladora | Externo |Regulador |
 | Inversionistas | Accionistas | Externo - Interno |Patrocinador |
