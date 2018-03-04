@@ -74,3 +74,5 @@ Link-2:<https://canvanizer.com/canvas/wdLcxWVebaK66>
 
 | Invitado(s)| Rol del Proyecto | ¿Cual es la unica cosa que debemos hacer para que este sitio web / aplicacion valga la pena? | ¿Como se define su organizacion el exito? ¿Cual es el rol del sitio web / aplicacion para lograr ese exito? | ¿Que aspectos de la cultura interna o del entorno externo podrian poner en riesgo este rediseño / aplicacion? |
 | :----------------- | :--------------: | :----------------: | :----------: | :----------: |
+| CEO | Cofundador | Marcar tendencia nacional / dar propuestas de valor diferenciado | Toma de decisiones | Equipos multidisciplinarios y agiles |
+| Gerente de Operaciones | Cofundador | Las operaciones bancarias serian via online | Asegurar la ejecucion de los procedimientos y actividades operativas | Equipos multidisciplinarios y agiles |
