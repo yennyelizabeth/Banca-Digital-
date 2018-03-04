@@ -50,17 +50,17 @@ Link-2:<https://canvanizer.com/canvas/wdLcxWVebaK66>
 
 | Stakeholders | Descripción | Tipo |Rol |
 | :----------- | :---------: | :---------: | ----------: |
-| SBS          | Entidad reguladora | Externo | Regulador |
-| BCR          | Entidad reguladora | Externo | Regulador |
-| Inversionistas | Accionistas | Externo - Interno | Patrocinador |
-| Dueño del Banco País | Empleado | Interno | Toma de decisiones |
-| CEO | Cofundador | Interno | Cofundador |
-| Gerente de Operaciones | Cofundador | Interno | Cofundador |
+| SBS          | Entidad reguladora | Externo |Regulador |
+| BCR          | Entidad reguladora | Externo |Regulador |
+| Inversionistas | Accionistas | Externo - Interno |Patrocinador |
+| Dueño del Banco País | Empleado | Interno |Toma de decisiones |
+| CEO | Cofundador | Interno |Cofundador |
+| Gerente de Operaciones | Cofundador | Interno |Cofundador |
 | Personal de Innovacion | Empleados | Interno | |
 | Product Manager | Empleados | Interno | |
 | Personal de Front-End | Empleados | Interno | |
 | Personal de Back- End | Empleados | Interno | |
-| Personal de soporte tecnologico | Empleados | Interno | |
+| Personal de soporte tecnologico |Empleados | Interno | |
 | Millenials | Clientes | Externo | |
 | Empresa Prestadores de Telecomunicaciones y Redes | Proveedores | Externo | |
 | Empresa Prestadora de Servicios de Call Center | Proveedores | Externo | |
