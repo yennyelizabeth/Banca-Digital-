@@ -27,4 +27,13 @@ Además, te piden que llegues a la reunión de kick - off con un **plan propuest
 
 ## Proceso de desarrollo:
 
-![image-1](https://github.com/PaoSil/Banca-Digital-/blob/master/assets/Proceso%20de%20desarrollo.png)
+![image-1](https://github.com/PaoSil/Banca-Digital-/blob/master/assets/Proceso%20de%20desarrollo.png).
+
+## Herramientas a utilizar:
+
+* Trello (https://trello.com/b/xFV1E75T/banca-digital-pais).
+* Canvanizer online (https://canvanizer.com/canvas/wdLcxWVebaK66).
+
+### Definicion de Actividades:
+
+![image-2](https://github.com/PaoSil/Banca-Digital-/blob/master/assets/CRONOGRAMA%20-%20BANCA%20DIGITAL.png).
