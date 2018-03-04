@@ -73,3 +73,4 @@ Link-2:<https://canvanizer.com/canvas/wdLcxWVebaK66>
 | Banca Digital "El Pais" | Banco "El Pais" | Paola Huaman - Yenny Quiñones | 25/02/2018 |
 
 | Invitado(s)| Rol del Proyecto | ¿Cual es la unica cosa que debemos hacer para que este sitio web / aplicacion valga la pena? | ¿Como se define su organizacion el exito? ¿Cual es el rol del sitio web / aplicacion para lograr ese exito? | ¿Que aspectos de la cultura interna o del entorno externo podrian poner en riesgo este rediseño / aplicacion? |
+| :----------------- | :--------------: | :----------------: | :----------: | :----------: |
