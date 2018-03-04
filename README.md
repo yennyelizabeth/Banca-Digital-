@@ -26,3 +26,5 @@ Además, te piden que llegues a la reunión de kick - off con un **plan propuest
 **El Product Manager** de El Banco el País.
 
 ## Proceso de desarrollo:
+
+![image-1](https://github.com/PaoSil/Banca-Digital-/blob/master/assets/Proceso%20de%20desarrollo.png)
