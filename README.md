@@ -27,7 +27,7 @@ Además, te piden que llegues a la reunión de kick - off con un **plan propuest
 
 ## Proceso de desarrollo:
 
-![image-1](https://github.com/PaoSil/Banca-Digital-/blob/master/assets/Proceso%20de%20desarrollo.png).
+![image-1](https://github.com/PaoSil/Banca-Digital-/blob/master/assets/Proceso%20de%20desarrollo.png)
 
 ## Herramientas a utilizar:
 
@@ -36,12 +36,12 @@ Además, te piden que llegues a la reunión de kick - off con un **plan propuest
 
 ### Definicion de Actividades:
 
-![image-2](https://github.com/PaoSil/Banca-Digital-/blob/master/assets/cronograma%20de%20actividades.png).
+![image-2](https://github.com/PaoSil/Banca-Digital-/blob/master/assets/cronograma%20de%20actividades.png)
 
-[link-1](https://trello.com/b/xFV1E75T/banca-digital-pais).
+[link-1]:https://trello.com/b/xFV1E75T/banca-digital-pais
 
 ### Business Model Canvas:
 
-![image-3](https://github.com/PaoSil/Banca-Digital-/blob/master/assets/CANVAS%20-%20BANCA%20DIGITAL.png).
+![image-3](https://github.com/PaoSil/Banca-Digital-/blob/master/assets/CANVAS%20-%20BANCA%20DIGITAL.png)
 
-[link-2](https://canvanizer.com/canvas/wdLcxWVebaK66).
+[link-2]:https://canvanizer.com/canvas/wdLcxWVebaK66
