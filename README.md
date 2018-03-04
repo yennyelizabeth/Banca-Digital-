@@ -27,7 +27,7 @@ Además, te piden que llegues a la reunión de kick - off con un **plan propuest
 
 ## Proceso de desarrollo:
 
-![image-1](https://github.com/PaoSil/Banca-Digital-/blob/master/assets/Proceso%20de%20desarrollo.png)
+![image-1](https://github.com/PaoSil/Banca-Digital-/blob/master/assets/proceso%20de%20desarrollo.jpg)
 
 ## Herramientas a utilizar:
 
