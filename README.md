@@ -38,10 +38,10 @@ Además, te piden que llegues a la reunión de kick - off con un **plan propuest
 
 ![image-2](https://github.com/PaoSil/Banca-Digital-/blob/master/assets/cronograma%20de%20actividades.png)
 
-[link-1]:https://trello.com/b/xFV1E75T/banca-digital-pais
+<https://trello.com/b/xFV1E75T/banca-digital-pais>
 
 ### Business Model Canvas:
 
 ![image-3](https://github.com/PaoSil/Banca-Digital-/blob/master/assets/CANVAS%20-%20BANCA%20DIGITAL.png)
 
-[link-2]:https://canvanizer.com/canvas/wdLcxWVebaK66
+<https://canvanizer.com/canvas/wdLcxWVebaK66>
