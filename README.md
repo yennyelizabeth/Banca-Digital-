@@ -34,14 +34,20 @@ Además, te piden que llegues a la reunión de kick - off con un **plan propuest
 * Trello.
 * Canvanizer online.
 
-### Definicion de Actividades:
+### Definición de Actividades:
 
 ![image-2](https://github.com/PaoSil/Banca-Digital-/blob/master/assets/cronograma%20de%20actividades.png)
 
-<https://trello.com/b/xFV1E75T/banca-digital-pais>
+Link-1:<https://trello.com/b/xFV1E75T/banca-digital-pais>
 
 ### Business Model Canvas:
 
 ![image-3](https://github.com/PaoSil/Banca-Digital-/blob/master/assets/CANVAS%20-%20BANCA%20DIGITAL.png)
 
-<https://canvanizer.com/canvas/wdLcxWVebaK66>
+Link-2:<https://canvanizer.com/canvas/wdLcxWVebaK66>
+
+### Identificar Stakeholders:
+
+| Stakeholders | Descripción | Tipo | Rol |
+| :----------- | :---------: | :---------: | ----------: |
+| SBS          | Entidad reguladora | Externo | Regulador |
