@@ -82,3 +82,7 @@ Link-2:<https://canvanizer.com/canvas/wdLcxWVebaK66>
 | Ejecutivo de Call Center | Proveedor | Ofreciendo al usuario una aplicacion que le solucionara la vida | Vender la aplicacion via telefonica | total autonomia y empoderamiento |
 | Gerente de Innovacion | Empleado | ser el primer banco digital en su telefono celular | Definir los lineamientos y politicas que deben cumplirse en lo referente a innovacion de la empresa | total autonomia y empoderamiento |
 | Gerente de Marketing | Empleado | Contar con un buen equipo de talento y la busqueda de tecnologia indicada para sus necesidades | Implementar las estrategias de marketing a corto y largo plazo de una empresa | total autonomia y empoderamiento |
+
+### Plan Research:
+
+![imagen-4](https://github.com/PaoSil/Banca-Digital-/blob/master/assets/Plan%20Research%20.jpg)
