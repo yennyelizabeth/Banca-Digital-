@@ -86,13 +86,58 @@ Link-2:<https://canvanizer.com/canvas/wdLcxWVebaK66>
 ### Plan Research:
 
 | Objetivos                                                                                              |
-| ------------------------------------------------------------------------------------------------------ |
+| :----------------------------------------------------------------------------------------------------: |
 
 * Planear : la Investigacion cuantitativa y cualitativa.
 * Reclutar : personas que cumplan el perfil idoneo para validar supuestos.
 * Conducir : la investigacion de la problematica y expectativas de los clientes.
 * Analizar : supuestos y validaciones.
 * Reportar : conclusiones y feedback.
+
+| Alcance                                                                                                |
+| :----------------------------------------------------------------------------------------------------: |
+
+* Propuesta : baja utilizacion de operacionesbancarias online.
+* Propuesta de Modelo de Negocio : Banca digital.
+* Propuesta de Proyecto : **EASY BANK** - Asistente inteligente de Banca digital online.
+* Linea de tiempo del proyecto : 1 semana y media.
+* Quienes son los usuarios : Millenials.
+
+|Metodologia                                                                                             |
+| :----------------------------------------------------------------------------------------------------: |
+
+* Revision de fuentes externas:
+  - Recopilación y Conclusiones de Investigaciones de servicios ya existentes.
+  - Información de los servicios de la competencia.
+  - Documentos legales relacionados.
+* Entrevistas:
+  - Lista de Perfiles a quienes evaluar.
+  - Guía de Entrevistas.
+  - Modelos de Entrevistas.
+
+|Actividades                                                                                             |
+| :----------------------------------------------------------------------------------------------------: |
+
+* Cronograma de actividades y duracion.
+
+|Estrategia                                                                                              |
+| :----------------------------------------------------------------------------------------------------: |
+
+* Limitaciones de economia:
+  - Reclutar personas conocidas (amistades, familiares, personas cercanas al lugar de trabajo).
+  - No se le dará un regalo por la entrevista a las personas conocidas.
+* Limitaciones de ubicación:
+  - Se tiene acccesibilidad de distancia a agencias de banco para entrevistar ( Bcp / Bbva ).
+  - Entrevista vía skype.
+  - Encuestas vía form google.
+* Limitaciones de confianza:
+  - Reclutar personas conocidas (amistades, familiares ).
+  - Reclutar nro de personas mínimas no conocidas cercanas al lugar de trabajo.
+* Limitaciones de tiempo:
+  - Recabar información ya existente de investigaciones de usabilidad, perfiles, negocio, etc.
+  - Personas reclutadas que cumplen el perfil analizado.
+  - Entrevistas realizadas en horario noche.
+  - Entrevistas realizadas en días de fin de semana.
 
 ![imagen-4](https://github.com/PaoSil/Banca-Digital-/blob/master/assets/Plan%20Research%20.jpg)
 
