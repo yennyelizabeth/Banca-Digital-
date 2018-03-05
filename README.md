@@ -85,4 +85,15 @@ Link-2:<https://canvanizer.com/canvas/wdLcxWVebaK66>
 
 ### Plan Research:
 
+| Objetivos |
+| --------- |
+
+Planear : la Investigacion cuantitativa y cualitativa.
+Reclutar : personas que cumplan el perfil idoneo para validar supuestos.
+Conducir : la investigacion de la problematica y expectativas de los clientes.
+Analizar : supuestos y validaciones.
+Reportar : conclusiones y feedback.
+
 ![imagen-4](https://github.com/PaoSil/Banca-Digital-/blob/master/assets/Plan%20Research%20.jpg)
+
+#### Cronograma de Actividades:
