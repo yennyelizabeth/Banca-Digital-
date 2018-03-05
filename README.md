@@ -56,15 +56,14 @@ Link-2:<https://canvanizer.com/canvas/wdLcxWVebaK66>
 | Dueño del Banco País | Empleado | Interno |Toma de decisiones |
 | CEO | Cofundador | Interno |Cofundador |
 | Gerente de Operaciones | Cofundador | Interno |Cofundador |
-| Personal de Innovacion | Empleados | Interno | |
+| Gerente de Innovacion | Empleados | Interno | |
 | Product Manager | Empleados | Interno | |
-| Personal de Front-End | Empleados | Interno | |
-| Personal de Back- End | Empleados | Interno | |
-| Personal de soporte tecnologico |Empleados | Interno | |
+| Front-End | Empleados | Interno | |
+| Back- End | Empleados | Interno | |
+| Gerente de Soporte y Redes |Empleados | Interno | |
+| Gerente de Marketing |Empleados | Interno | |
 | Millenials | Clientes | Externo | |
-| Empresa Prestadores de Telecomunicaciones y Redes | Proveedores | Externo | |
-| Empresa Prestadora de Servicios de Call Center | Proveedores | Externo | |
-| Empresa Prestadora de Servicios Atencion Chat | Provedores | Externo | |
+| Ejecutivo de Call Center | Proveedores | Externo | |
 
 ### Kick-off meeting:
 
@@ -73,11 +72,13 @@ Link-2:<https://canvanizer.com/canvas/wdLcxWVebaK66>
 | Banca Digital "El Pais" | Banco "El Pais" | Paola Huaman - Yenny Quiñones | 25/02/2018 |
 
 | Invitado(s)| Rol del Proyecto | ¿Cual es la unica cosa que debemos hacer para que este sitio web / aplicacion valga la pena? | ¿Como se define su organizacion el exito? ¿Cual es el rol del sitio web / aplicacion para lograr ese exito? | ¿Que aspectos de la cultura interna o del entorno externo podrian poner en riesgo este rediseño / aplicacion? |
-| :----------------- | :--------------: | :----------------: | :----------: | :----------: |
+| :----------------- | :--------------: | :----------------- | :----------- | :----------- |
 | CEO | Cofundador | Marcar tendencia nacional / dar propuestas de valor diferenciado | Toma de decisiones | Equipos multidisciplinarios y agiles |
 | Gerente de Operaciones | Cofundador | Las operaciones bancarias serian via online | Asegurar la ejecucion de los procedimientos y actividades operativas | Equipos multidisciplinarios y agiles |
 | Product Manager | Empleado | Trabajar en la creacion de nuevos equipos. | encargado del desarrollo, planificacion, lanzamiento y seguimiento del producto |  total autonomia y empoderamiento |
 | Front-end | Empleado | Asegurar la accesibilidad de los sitios y que estas sean interactivas | Traducir el diseño de las paginas en codigo para construir la interfaz de los sitios | total autonomia y empoderamiento |
 | Back-end | Empleado | Asegurar que la aplicacion o sitio web funcione | programacion de un sitio web y todos sus componentes, coordinando paginas, formularios, funcionalidades, bases de datos y servidores web | total autonomia y empoderamiento |
 | Gerente de Soportes y Redes | Empleado | Asegurarse del buen funcionamiento de los sistemas, servidores y recursos de red existentes | Soporte computacional de hardware y software a usuarios de la institucion y a la plataforma corporativa | total autonomia y empoderamiento |
-|||||||||||||||||||||
+| Ejecutivo de Call Center | Proveedor | Ofreciendo al usuario una aplicacion que le solucionara la vida | Vender la aplicacion via telefonica | total autonomia y empoderamiento |
+| Gerente de Innovacion | Empleado | ser el primer banco digital en su telefono celular | Definir los lineamientos y politicas que deben cumplirse en lo referente a innovacion de la empresa | total autonomia y empoderamiento |
+| Gerente de Marketing | Empleado | Contar con un buen equipo de talento y la busqueda de tecnologia indicada para sus necesidades | Implementar las estrategias de marketing a corto y largo plazo de una empresa | total autonomia y empoderamiento |
