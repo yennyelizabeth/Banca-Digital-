@@ -139,6 +139,15 @@ Link-2:<https://canvanizer.com/canvas/wdLcxWVebaK66>
   - Entrevistas realizadas en horario noche.
   - Entrevistas realizadas en días de fin de semana.
 
-![imagen-4](https://github.com/PaoSil/Banca-Digital-/blob/master/assets/Plan%20Research%20.jpg)
+|Aspectos importantes propuestos por los Stakeholders                                                    |
+| :----------------------------------------------------------------------------------------------------: |
+
+* **Diferenciación**
+* **Accesible**
+* **Interactivo con el Usuario**
+* **Romper con los esquemas de los bancos tradicionales**
+* **Fácil uso**
+* **Disminución de reclamos**
+* **Atención las 24 horas**
 
 #### Cronograma de Actividades:
