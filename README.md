@@ -184,28 +184,17 @@ Link 6 - Google-Form: <https://goo.gl/forms/x3nVF6e0PllB8XYj2>
 | :-----------------: | :--------------: |
 | 1 | * Lo aspectos para escoger un banco son: buena atención al cliente, comisiones y tarifas bajas, muchos beneficios y buena información. | 
 | 2 | * La decisión para abrir una cuenta es motivada principalmente para realizar compras, ordenar y administrar el dinero, y para recibir el sueldo . | 
-
 | 3 | * La decisión de cambio de banco es por motivos de: excesivos cobros a la cuenta , irregularidades en el estado de cuenta y ofrecimiento de más operaciones gratuitas por otro banco. | 
-
 | 4 | * La gran mayoría ya cuentan con una cuenta visa y/o mastercard. | 
-
 | 5 | * Importancia en abrir una cuenta de banco. | 
-
 | 6 | * Percepción de engorroso con respecto al del trámite de abrir una cuenta. | 
-
 | 7 | * Probarían una cuenta costo 0 , para organizar el dinero y tener beneficios. | 
 | 8 | * Importancia por las bajas tasas de cobros para abrir una cuenta. | 
-
 | 9 | * Abrir una cuenta para pagar servicios , educación y vivienda. | 
-
 | 10 | * Creen que la cuenta corriente/ahorro sirve para disponer de gastos a realizar, comprar y ahorrar. | 
-
 | 11 | * No se encuentran informados completamente los beneficios de la cuenta de ahorro/corriente. | 
 | 12 | * Creen que es importante la seriedad, imagen, publicidad del banco por que les genera seguridad, confianza y buena atención al cliente. | 
-
 | 13 | * Diversidad de opciones en planes de cuentas que se ajusten a sus requerimientos. | 
-
 | 14 | * Importancia de que trámite de una cuenta nueva no sea engorroso. | 
-
 | 15 | * Importancia de que trámite permita un buen servicio. | 
 
