@@ -157,36 +157,11 @@ Segun el Plan de Research.
 ![] ()
 
 #### Modelo de entrevista:
+**I. Modelo y Versiones**
 
-**I. Introduccion**:
+Link 3: <https://drive.google.com/open?id=1QeA6FEg_6cdVH-MOIHRPIRsph81RmBi1_gYcqzByBoM>
 
-Hola soy _____________ y quisiera hacerte una entrevista para conocerte un poco y saber como es tu experiecnia cuando realizes algun tramite bancario. Antes de ello quisiera saber si ¿estas de acuerdo en que se grabe la entrevista?, el cual sera confidencial. Si en algun momento no quieres continuar con la entrevista, dilo con confianza. No te juzgare por ello.
+**II. Entrevista-Google-Form**
 
-**II. Warming Up**:
-
-**II.1. Screener Validation**
-
-1. ¿Cual es tu nombre?
-2. ¿Tu edad?
-3. ¿Por donde vives?
-4. ¿A que te dedicas actualmente?
-5. ¿Tienes una cuenta bancaria? (SI/NO) ... ¿De que banco(s)?
-
-* Opcional: si en caso responde mas de una ... ¿Cual de ellas usas mas?
-
-6. ¿Por que elegiste abrir una cuenta bancaria?
-7. ¿Con qué frecuencia vas al banco? ... ¿Cuéntanos sobre la última vez que fuiste?
-8. ¿Qué operaciones bancarias realizas? ¿Con qué frecuencia las realizas?
-9. Cuéntame, ¿Cómo realizas estas operaciones?
-10. De estas operaciones ¿Cuál te resulta más sencilla de realizar? ¿Por qué?
-11. y ¿ Cuál te resulta más compleja de realizar? ¿Por qué?
-12. ¿Cuáles son los servicios de banco que más te agrada? ¿Por qué?
-13. ¿Cuáles son los servicios del banco que menos te agrada? ¿por qué?
-14. ¿Conoces los planes que te ofrece tu banco? , de estos planes, ¿Cuál utilizas y por qué?
-15. Cuéntanos, ¿Tu banco te mantiene informado? ¿Cómo?
-16. Cuéntanos, ¿Ház tenido que realizar reclamos? ¿Cómo fue la última vez que tuviste que hacer un reclamo?
-
-**II.2. Entrevista-Google-Form**
-
-Link 3: <https://goo.gl/forms/x3nVF6e0PllB8XYj2>
+Link 4: <https://goo.gl/forms/x3nVF6e0PllB8XYj2>
 
