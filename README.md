@@ -180,9 +180,9 @@ Link 6 - Google-Form: <https://goo.gl/forms/x3nVF6e0PllB8XYj2>
 - Resumen <https://drive.google.com/open?id=1h4HykauWINu0Wbm87BaV5A-fSjTaS8Cv>
 - Conclusiones:
 
-| Nro | Conclusión |
+| Nro | Conclusiones |
 | :-----------------: | :--------------: |
-| 1 | * Lo aspectos para escoger un banco son: buena atención al cliente, comisiones y tarifas bajas, muchos beneficios y buena información. | 
+| 1 | Lo aspectos para escoger un banco son: buena atención al cliente, comisiones y tarifas bajas, muchos beneficios y buena información. | 
 | 2 | * La decisión para abrir una cuenta es motivada principalmente para realizar compras, ordenar y administrar el dinero, y para recibir el sueldo . | 
 | 3 | * La decisión de cambio de banco es por motivos de: excesivos cobros a la cuenta , irregularidades en el estado de cuenta y ofrecimiento de más operaciones gratuitas por otro banco. | 
 | 4 | * La gran mayoría ya cuentan con una cuenta visa y/o mastercard. | 
