@@ -185,3 +185,8 @@ Hola soy _____________ y quisiera hacerte una entrevista para conocerte un poco 
 14. ¿Conoces los planes que te ofrece tu banco? , de estos planes, ¿Cuál utilizas y por qué?
 15. Cuéntanos, ¿Tu banco te mantiene informado? ¿Cómo?
 16. Cuéntanos, ¿Ház tenido que realizar reclamos? ¿Cómo fue la última vez que tuviste que hacer un reclamo?
+
+**II.2. Entrevista-Google-Form**
+
+Link 3: <https://goo.gl/forms/x3nVF6e0PllB8XYj2>
+
