@@ -55,15 +55,15 @@ Link 2: <https://canvanizer.com/canvas/wdLcxWVebaK66>
 | Inversionistas | Accionistas | Externo - Interno |Patrocinador |
 | Dueño del Banco País | Empleado | Interno |Toma de decisiones |
 | CEO | Cofundador | Interno |Cofundador |
-| Gerente de Operaciones | Cofundador | Interno |Cofundador |
-| Gerente de Innovacion | Empleados | Interno | |
-| Product Manager | Empleados | Interno | |
-| Front-End | Empleados | Interno | |
-| Back- End | Empleados | Interno | |
-| Gerente de Soporte y Redes |Empleados | Interno | |
-| Gerente de Marketing |Empleados | Interno | |
-| Millenials | Clientes | Externo | |
-| Ejecutivo de Call Center | Proveedores | Externo | |
+| Gerente de Operaciones | Cofundador | Interno | Estrategia Operaciones | |
+| Gerente de Innovacion | Empleados | Interno | Estrategia Competitiva | |
+| Product Manager | Empleados | Interno | Estrategia del Producto| |
+| Front-End | Empleados | Interno | Desarrollo de Maquetación | |
+| Back- End | Empleados | Interno | Desarrollo de Plataforma | |
+| Gerente de Soporte y Redes |Empleados | Interno | Mantenimiento Plataforma | |
+| Gerente de Marketing |Empleados | Interno | Estrategia Comercial | |
+| Millenials | Clientes | Externo | Usuarios Externos | |
+| Ejecutivo de Call Center | Proveedores | Externo | Soporte Cliente | |
 
 ### Kick-off meeting:
 
