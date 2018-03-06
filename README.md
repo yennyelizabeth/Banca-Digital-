@@ -173,7 +173,23 @@ Link 5: <https://drive.google.com/open?id=1H1Dpg38wTcBQ0-Ekwco0b5edy9ma_gh6mZ4aM
 
 Link 6 - Google-Form: <https://goo.gl/forms/x3nVF6e0PllB8XYj2>
 
-**II. Conclusiones**
+
+### Proceso Research:
+
+| Cuantitativo                                                                                           |
+| :----------------------------------------------------------------------------------------------------: |
+* Revision de fuentes externas:
+  - Recopilación de data
+  - Conclusiones
+  - Información de los servicios de la competencia ( Benchmark)
+
+  
+
+| Cualitativo                                                                                            |
+| :----------------------------------------------------------------------------------------------------: |
+* Entrevistas , Encuestas y Conclusiones
+
+**A. Entrevistas**
 * **Clientes**
 
 - **Resumen**.
@@ -190,7 +206,7 @@ Link 6 - Google-Form: <https://goo.gl/forms/x3nVF6e0PllB8XYj2>
 - **Resumen**. <https://drive.google.com/open?id=1h4HykauWINu0Wbm87BaV5A-fSjTaS8Cv>
 - **Conclusiones**.
 
-| Nro | Conclusiones |
+| Nro | Conclusiones de Encuesta Online|
 | :-----------------: | :--------------: |
 | 1 | Lo aspectos para escoger un banco son: buena atención al cliente, comisiones y tarifas bajas, muchos beneficios y buena información | 
 | 2 | La decisión para abrir una cuenta es motivada principalmente para realizar compras, ordenar y administrar el dinero, y para recibir el sueldo | 
