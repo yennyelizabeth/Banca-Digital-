@@ -159,9 +159,19 @@ Segun el Plan de Research.
 #### Modelo de entrevista:
 **I. Modelo y Versiones**
 
+**Clientes**
 Link 3: <https://drive.google.com/open?id=1QeA6FEg_6cdVH-MOIHRPIRsph81RmBi1_gYcqzByBoM>
 
-**II. Entrevista-Google-Form**
+**Stakeholders Internos**
+Link 4: <https://drive.google.com/open?id=1mfBrjTp-LcUiF0Sdc4oY_IDgfnPlKijsuLT3EPyXjQE>
 
-Link 4: <https://goo.gl/forms/x3nVF6e0PllB8XYj2>
+**Encuesta Online**
+Link 5: <https://drive.google.com/open?id=1H1Dpg38wTcBQ0-Ekwco0b5edy9ma_gh6mZ4aM6qp7ws>
+
+Link 6 - Google-Form: <https://goo.gl/forms/x3nVF6e0PllB8XYj2>
+
+**II. Conclusiones**
+**Clientes**
+**Stakeholders Internos**
+**Encuesta Online**
 
