@@ -175,16 +175,20 @@ Link 6 - Google-Form: <https://goo.gl/forms/x3nVF6e0PllB8XYj2>
 
 **II. Conclusiones**
 * **Clientes**
-####### Resumen
-####### Conclusiones
+
+- **Resumen**.
+- **Conclusiones**.
+
 
 * **Stakeholders Internos**
-####### Resumen
-####### Conclusiones
+
+- **Resumen**.
+- **Conclusiones**.
 
 * **Encuesta Online**
-####### Resumen <https://drive.google.com/open?id=1h4HykauWINu0Wbm87BaV5A-fSjTaS8Cv>
-####### Conclusiones:
+
+- **Resumen**. <https://drive.google.com/open?id=1h4HykauWINu0Wbm87BaV5A-fSjTaS8Cv>
+- **Conclusiones**.
 
 | Nro | Conclusiones |
 | :-----------------: | :--------------: |
