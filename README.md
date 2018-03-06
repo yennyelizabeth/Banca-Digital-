@@ -150,6 +150,8 @@ Link 2: <https://canvanizer.com/canvas/wdLcxWVebaK66>
 * **Disminución de reclamos**
 * **Atención las 24 horas**
 
+* Ver Plan y versiones Link: <https://drive.google.com/open?id=1e7Q3W9qPoOao2gj6o22rM5MiZN78rKut>
+
 #### Cronograma de Actividades:
 
 Segun el Plan de Research.
