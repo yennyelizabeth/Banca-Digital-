@@ -153,6 +153,7 @@ Link 2: <https://canvanizer.com/canvas/wdLcxWVebaK66>
 #### Cronograma de Actividades:
 
 Segun el Plan de Research.
+Link : <https://drive.google.com/open?id=1Lpo6ULJrrxEJYKSIvspR37oa_oGl_Adc>
 
 ![] ()
 
