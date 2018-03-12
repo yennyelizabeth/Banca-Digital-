@@ -23,32 +23,28 @@ Para ello se han propuesto **crear un banco 100% digital** dirigido para **Mille
 - **Nubank**. (https://www.nubank.com.br/)
 - **Simple**. (https://www.simple.com/)
 
-### Desarrollado para:
+### El Reto Nro 01
+#### 🚩 Tabla de contenido
+- [ORGANIZACIÓN PREVIA](#-organización-previa)
+- [INVESTIGACIÓN PREVIA](#-investigación-previa)
+- [MODELO DE NEGOCIO](#-modelo-de-negocio)
+- [STAKEHOLDERS](#-stakeholders)
+- [PLAN RESEARCH](#-plan-research)
+- [KICK OFF](#-kick-off)
+
+
+#### ORGANIZACIÓN PREVIA
+
+| Prototipo | Descripción | Documentación  |
+| ----      | ----        | ----           |
+| **Papel** | Se prototipó utilizando papel| https://github.com/PaoSil/Banca-Digital-/blob/master/assets/cronograma%20de%20actividades.png|
 
 ![image-2](https://github.com/PaoSil/Banca-Digital-/blob/master/assets/cronograma%20de%20actividades.png)
 
-### Proceso de desarrollo:
-
-#### Descripción:
-
-Presentación de kickOff y conversaciones en el equipo para poder analizar cuáles serían las metodologías que se emplearían para poder llevar a cabo con éxito el reto asignado.
-
-#### Business Model Canvas:
-
-![image-3](https://github.com/PaoSil/Banca-Digital-/blob/master/assets/CANVAS%20-%20BANCA%20DIGITAL.png)
 
 
 
-|Aspectos importantes propuestos por los Stakeholders                                                    |
-| :----------------------------------------------------------------------------------------------------: |
 
-* **Diferenciación**
-* **Accesible**
-* **Interactivo con el Usuario**
-* **Romper con los esquemas de los bancos tradicionales**
-* **Fácil uso**
-* **Disminución de reclamos**
-* **Atención las 24 horas**
 
 * Ver Plan y versiones Link: <https://drive.google.com/open?id=1e7Q3W9qPoOao2gj6o22rM5MiZN78rKut>
 
@@ -91,6 +87,19 @@ Definiendo a nuestros principales  **STAKEHOLDERS**
 | Gerente de Marketing |Empleados | Interno | Estrategia Comercial | |
 | Millenials | Clientes | Externo | Usuarios Externos | |
 | Ejecutivo de Call Center | Proveedores | Externo | Soporte Cliente | |
+
+
+
+|Aspectos importantes propuestos por los Stakeholders                                                    |
+| :----------------------------------------------------------------------------------------------------: |
+
+* **Diferenciación**
+* **Accesible**
+* **Interactivo con el Usuario**
+* **Romper con los esquemas de los bancos tradicionales**
+* **Fácil uso**
+* **Disminución de reclamos**
+* **Atención las 24 horas**
 
 ### Kick-off meeting:
 
@@ -189,7 +198,7 @@ Link : <https://drive.google.com/open?id=1Lpo6ULJrrxEJYKSIvspR37oa_oGl_Adc>
 
 ### El Reto Nro 02:
 #### 🚩 Tabla de contenido
-- [PROCESO RESEARCH](#proceso-research)
+- [PROCESO RESEARCH](#-proceso-research)
   - [Cuantitativo](#cuantitativo)
     - [Recopilación Data](#recopilación-data)
     - [Benchmarck](#benchmarck)
@@ -209,7 +218,7 @@ Link : <https://drive.google.com/open?id=1Lpo6ULJrrxEJYKSIvspR37oa_oGl_Adc>
 - [TESTING](#-testing)
 
 
-### PROCESO RESEARCH:
+#### 📜 PROCESO RESEARCH:
 
 En este proceso, conoceremos el contexto de la transformación digital en el banco. En tal sentido 
 investigaremos a clientes ( milenialas) , el negocio de banco, las mejores prácticas y soluciones que
