@@ -408,17 +408,23 @@ Cualitativo                                                                     
 
 | Prototipo        | Descripción | Documentación  |
 | ----               | ----      | ----           |
-| **Papel** | Se prototipó utilizando papel|      | https://drive.google.com/open?id=1qX2YA43ZYbyjBQoFMiAqiXiYaHfZWblu|
+| **Papel** | Se prototipó utilizando papel| https://drive.google.com/open?id=1qX2YA43ZYbyjBQoFMiAqiXiYaHfZWblu|
+
+![Inicio](assets/prototipo/papel/0-papel.png)
+
 
 
 | Prototipo        | Descripción | Documentación  |
 | ----               | ----      | ----           |
 | **Figma**  | Se utilizó figma para el prototipo  |   |
-| **Marvel Versión 1** | Se utilizó Marvel para la demo del prototipo versión 1 | |
+
+![Inicio](assets/prototipo/figma/0-figma.png)
+
 
 | Prototipo        | Descripción | Documentación  |
 | ----               | ----      | ----           |
-| **Marvel Versión 2** | Se utilizó Marvel para la demo del prototipo versión 2  | |
+| **Marvel Versión 1** | Se utilizó Marvel para la demo del prototipo versión 1 | |
+| **Marvel Versión 2** | Se utilizó Marvel para la demo del prototipo versión 2 | |
 
 
 
