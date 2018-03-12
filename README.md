@@ -35,8 +35,6 @@ Para ello se han propuesto **crear un banco 100% digital** dirigido para **Mille
 
 ![image-2](https://github.com/PaoSil/Banca-Digital-/blob/master/assets/cronograma%20de%20actividades.png)
 
-Link 1: <https://trello.com/b/xFV1E75T/banca-digital-pais>
-
 ### Planeamiento e Investigación:
 
 #### Descripción:
