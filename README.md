@@ -382,20 +382,27 @@ Cualitativo                                                                     
 
 - **Resumen**. <https://drive.google.com/open?id=1h4HykauWINu0Wbm87BaV5A-fSjTaS8Cv>
 
-```sh
-| Nro | Conclusiones de Procesos Research|
-| :-----------------: | :--------------: |
-| 1 | Del lado del negocio, la inversión en crecimiento de banca personal no es de riesgo  |
-| 2 | Del lado del negocio, el banco quiere que los clientes milenials tengan más cercanía con su productos |
-| 3 | Del lado del negocio, el banco quiere mantener y mejorar sus canales de atención al cliente|
-| 4 | Del lado del cliente, los milenials realizan operaciones frecuentes : transferencias y pago de servicios |
-| 5 | Del lado del cliente, realizan operaciones poco frecuentes: ahorro |
-| 6 | Del lado del cliente, tienen mas de un banco |
-| 5 | A los clientes les agradaría tener recordatorios de pagos de servicios y estos cada vez abarquen más servicios |
-| 6 | Los clientes no se percatan mucho en el diseño de las aplicaciones, más si en su funcionalidad y disponibilidad |
-| 7 | Los clientes prefieren realizar operaciones bancarias según su organización y planificación |
+```sh}
+
+Del lado del negocio
+
+| Nro | Conclusiones de Procesos Research                                                          |
+| :-: | :-------------------------------                                                         : |
+| 1 | La inversión en crecimiento de banca personal no es de riesgo  |
+| 2 | El banco quiere que los clientes milenials tengan más cercanía con su productos |
+| 3 | El banco quiere mantener y mejorar sus canales de atención al cliente|
+
+Del lado del cliente
+| 4 | Los milenials realizan operaciones frecuentes : transferencias y pago de servicios |
+| 5 | Realizan operaciones poco frecuentes: ahorro |
+| 6 | Tienen mas de un banco |
+
+Del lado del cliente, y que el banco podría considerar
+| 5 | Les agradaría tener recordatorios de pagos de servicios y estos cada vez abarquen más servicios |
+| 6 | No se percatan mucho en el diseño de las aplicaciones, más si en su funcionalidad y disponibilidad |
+| 7 | Prefieren realizar operaciones bancarias según su organización y planificación |
 ```
-#### PROTOTIPO
+#### 🚀 PROTOTIPO
 
 ##### PAPEL
 | Prototipo | Descripción | Documentación  |
