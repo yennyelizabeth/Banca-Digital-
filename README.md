@@ -300,10 +300,8 @@ Link : <https://drive.google.com/open?id=1Lpo6ULJrrxEJYKSIvspR37oa_oGl_Adc>
   - [Marvel Versión 1](#marvel-versión-1)
   - [Marvel Versión 2](#marvel-versión-2)
 - [Testing](#testing)
-  - [Testing Papel](#testing-papel)
-  - [Figma](#figma)
-  - [Testing Marvel Versión 1](#testing-marvel-versión-1)
-  - [Testing Marvel Versión 2](#testing-marvel-versión-2)
+  - [Testing Papel](#PAPEL)
+  - [Testing Marvel](#MARVEL)
 
 ### Proceso Research:
 
