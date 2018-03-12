@@ -1,3 +1,12 @@
+# 
+Una App “” .
+
+![Inicio](assets/images/img-readme/pantalla-uno.png)
+
+## Proyecto desarrollado en [Laboratoria](http://laboratoria.la)
+
+## En  [Peru](http://peru.com)
+
 # Banca Digital "El País"
 
 ## Descripción:
