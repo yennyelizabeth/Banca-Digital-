@@ -381,25 +381,19 @@ Cualitativo                                                                     
 
 
 - **Resumen**. <https://drive.google.com/open?id=1h4HykauWINu0Wbm87BaV5A-fSjTaS8Cv>
-- **Conclusiones**.
-```sh
-| Nro | Conclusiones de Encuesta Online|
-| :-----------------: | :--------------: |
-| 1 | Lo aspectifas bajas, muchos beneficios y buena información |
-| 2 | La decisión para abrar el dinero, y para recibir el sueldo |
-| 3 | La decisión de cambio de banco es por motivos de: excesico |
-| 4 | La gran mayoría ya cuentan con una cuenta visa y/o masterc |
-| 5 | Importancia en abrir una cuenta de banco |
-| 6 | Percepción de engorroso con respecto al del trámite de abri|
-| 7 | Probarían una cuenta costo 0 , para organizar el dinero y  |
-| 8 | Importancia por las bajas tasas de cobros para abrir una cu|
-| 9 | Abrir una cuenta para pagar servicios , educación y viviend|
-| 10 | Creen que la cuenta corriente/ahorro sirve para disponer  |
-| 11 | No se encuentran informados completamente los beneficios  |
-| 13 | Diversidad de opciones en planes de cuentas que se ajust  |
-| 14 | Importancia de que trámite de una cuenta nueva no sea engo|
-| 15 | Importancia de que trámite permita un buen servicio |
 
+```sh
+| Nro | Conclusiones de Procesos Research|
+| :-----------------: | :--------------: |
+| 1 | Del lado del negocio, la inversión en crecimiento de banca personal no es de riesgo  |
+| 2 | Del lado del negocio, el banco quiere que los clientes milenials tengan más cercanía con su productos |
+| 3 | Del lado del negocio, el banco quiere mantener y mejorar sus canales de atención al cliente|
+| 4 | Del lado del cliente, los milenials realizan operaciones frecuentes : transferencias y pago de servicios |
+| 5 | Del lado del cliente, realizan operaciones poco frecuentes: ahorro |
+| 6 | Del lado del cliente, tienen mas de un banco |
+| 5 | A los clientes les agradaría tener recordatorios de pagos de servicios y estos cada vez abarquen más servicios |
+| 6 | Los clientes no se percatan mucho en el diseño de las aplicaciones, más si en su funcionalidad y disponibilidad |
+| 7 | Los clientes prefieren realizar operaciones bancarias según su organización y planificación |
 ```
 #### PROTOTIPO
 
@@ -427,9 +421,7 @@ Cualitativo                                                                     
 | Prototipo     | Resumen    | Documentación  |
 | ----          | ---        | ----           |
 | **Papel**     | Ordenar menú, mejorar iconos, mejorar mensajes | https://drive.google.com/open?id=19LqFxEE0xzQS1l2oX_m-GIBUgNizT4sD7LIeI_fdns8 | 
-
-| **Marvel-Vs-01** | mejorar colores, diseño, tipografía | https://drive.google.com/open?id=19LqFxEE0xzQS1l2oX_m-GIBUgNizT4sD7LIeI_fdns8  |
-
+| **Marvel-Vs-01** | mejorar colores, diseño, tipografía | https://drive.google.com/open?id=19LqFxEE0xzQS1l2oX_m-GIBUgNizT4sD7LIeI_fdns8 |
 | **Marvel-Vs-02** | mejorar mensajes comunicados | https://drive.google.com/open?id=19LqFxEE0xzQS1l2oX_m-GIBUgNizT4sD7LIeI_fdns8  |
 
 
