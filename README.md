@@ -189,16 +189,10 @@ Link : <https://drive.google.com/open?id=1Lpo6ULJrrxEJYKSIvspR37oa_oGl_Adc>
 
 #### Entrevistas
 
-| Entrevistas        | Versiones |
-| ----               | ----      |
-| Clientes Milenials | ` Vs-01 , Vs-02        |
-
-| Documentación-Link | ` [![Preguntas Entrevista Clientes - Vs-01 /Vs-02](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVBkuhItMgaOd2hN1SiMOCG7B74SeB2C9jdSpC_xvMH0HKGysRsA)] (https://drive.google.com/open?id=1QeA6FEg_6cdVH-MOIHRPIRsph81RmBi1_gYcqzByBoM)Backtick        |
-
-
-
-
-
+| Entrevistados        | Versiones | Documentación  |
+| ----               | ----      | ----           |
+| Clientes Milenials | ` Vs-01 , Vs-02        | `https://drive.google.com/open?id=1QeA6FEg_6cdVH-MOIHRPIRsph81RmBi1_gYcqzByBoM       |
+| Stakeholders | ` CEO - Gerente de Operaciones - Product Manager  | `https://drive.google.com/open?id=1mfBrjTp-LcUiF0Sdc4oY_IDgfnPlKijsuLT3EPyXjQE  |
 
 
 **I. Modelo y Versiones**
