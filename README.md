@@ -279,18 +279,34 @@ Definiendo a nuestros principales  **STAKEHOLDERS**
 
 Segun el Plan de Research.
 Link : <https://drive.google.com/open?id=1Lpo6ULJrrxEJYKSIvspR37oa_oGl_Adc>
+
 ### El Reto Nro 02:
 #### 🚩 Tabla de contenido
 - [Proceso Research](#proceso-research)
   - [Cuantitativo](#cuantitativo)
     - [Recopilación Data](#recopilación-data)
     - [Benchmarck](#benchmarck)
+    - [Conclusiones 1](#conclusiones-1)    
 
   - [Cualitativo](#cualitativo)
     - [Entrevistas Presenciales](#entrevistas-presenciales)
-    - [Encuestas Online](#cualitativo)
+    - [Conclusiones 2](#conclusiones-2)
+    - [Encuestas Online](#encuestas-online)
+    - [Conclusiones 3](#conclusiones-3)
+  
+  - [Conclusiones 4](#conclusiones-4)
 
+- [Prototipo](#prototipo)
+  - [Papel](#papel)
+  - [Figma](#figma)
+  - [Marvel Versión 1](#marvel-versión-1)
+  - [Marvel Versión 2](#marvel-versión-2)
 
+- [Testing](#testing)
+  - [Testing Papel](#testing-papel)
+  - [Figma](#figma)
+  - [Testing Marvel Versión 1](#testing-marvel-versión-1)
+  - [Testing Marvel Versión 2](#testing-marvel-versión-2)
 
 ### Proceso Research:
 
@@ -301,9 +317,12 @@ Link : <https://drive.google.com/open?id=1Lpo6ULJrrxEJYKSIvspR37oa_oGl_Adc>
 * Revision de fuentes externas:
   - Recopilación de data
   - Información de los servicios de la competencia ( Benchmark)
-  - Conclusiones
+
+#### Conclusiones 1
+```sh
 
 
+```
 
 Cualitativo                                                                                             |
 | :---------------------------------------------------------------------------------------------------: |
@@ -317,7 +336,7 @@ Cualitativo                                                                     
 | * **Clientes Milenials**  | Se mejoraron las preguntas, se tienen 2 versiones, se entrevistaron a 9 milenials  | https://drive.google.com/open?id=1QeA6FEg_6cdVH-MOIHRPIRsph81RmBi1_gYcqzByBoM       |
 | * **Stakeholders** | Se realizaron 4 entrevistas : CEO - Gerente de Operaciones - Product Manager  | https://drive.google.com/open?id=1mfBrjTp-LcUiF0Sdc4oY_IDgfnPlKijsuLT3EPyXjQE  |
 
-#### Conclusiones
+#### Conclusiones 2
 
 ```sh
 - Uso de servicios bancarios para manejar volúmenes grandes de dinero
@@ -340,7 +359,7 @@ Cualitativo                                                                     
 |Preguntas: | https://drive.google.com/open?id=1H1Dpg38wTcBQ0-Ekwco0b5edy9ma_gh6mZ4aM6qp7ws |
 |Formulario Google | <https://goo.gl/forms/x3nVF6e0PllB8XYj2>  |
 
-#### Conclusiones
+#### Conclusiones 3
 
 ```sh
 - Para elegir un banco: buena atención, comisiones bajas, beneficios y buena información.
@@ -364,7 +383,7 @@ Cualitativo                                                                     
 
 ```
 
-#### Conclusiones Globales:
+#### Conclusiones 4
 
 
 - **Resumen**. <https://drive.google.com/open?id=1h4HykauWINu0Wbm87BaV5A-fSjTaS8Cv>
@@ -372,18 +391,17 @@ Cualitativo                                                                     
 
 | Nro | Conclusiones de Encuesta Online|
 | :-----------------: | :--------------: |
-| 1 | Lo aspectos para escoger un banco son: buena atención al cliente, comisiones y tarifas bajas, muchos beneficios y buena información |
-| 2 | La decisión para abrir una cuenta es motivada principalmente para realizar compras, ordenar y administrar el dinero, y para recibir el sueldo |
-| 3 | La decisión de cambio de banco es por motivos de: excesivos cobros a la cuenta , irregularidades en el estado de cuenta y ofrecimiento de más operaciones gratuitas por otro banco |
-| 4 | La gran mayoría ya cuentan con una cuenta visa y/o mastercard |
+| 1 | Lo aspectifas bajas, muchos beneficios y buena información |
+| 2 | La decisión para abrar el dinero, y para recibir el sueldo |
+| 3 | La decisión de cambio de banco es por motivos de: excesico |
+| 4 | La gran mayoría ya cuentan con una cuenta visa y/o masterc |
 | 5 | Importancia en abrir una cuenta de banco |
-| 6 | Percepción de engorroso con respecto al del trámite de abrir una cuenta |
-| 7 | Probarían una cuenta costo 0 , para organizar el dinero y tener beneficios |
-| 8 | Importancia por las bajas tasas de cobros para abrir una cuenta |
-| 9 | Abrir una cuenta para pagar servicios , educación y vivienda |
-| 10 | Creen que la cuenta corriente/ahorro sirve para disponer de gastos a realizar, comprar y ahorrar |
-| 11 | No se encuentran informados completamente los beneficios de la cuenta de ahorro/corriente |
-| 12 | Creen que es importante la seriedad, imagen, publicidad del banco por que les genera seguridad, confianza y buena atención al cliente |
-| 13 | Diversidad de opciones en planes de cuentas que se ajusten a sus requerimientos |
-| 14 | Importancia de que trámite de una cuenta nueva no sea engorroso |
+| 6 | Percepción de engorroso con respecto al del trámite de abri|
+| 7 | Probarían una cuenta costo 0 , para organizar el dinero y  |
+| 8 | Importancia por las bajas tasas de cobros para abrir una cu|
+| 9 | Abrir una cuenta para pagar servicios , educación y viviend|
+| 10 | Creen que la cuenta corriente/ahorro sirve para disponer  |
+| 11 | No se encuentran informados completamente los beneficios  |
+| 13 | Diversidad de opciones en planes de cuentas que se ajust  |
+| 14 | Importancia de que trámite de una cuenta nueva no sea engo|
 | 15 | Importancia de que trámite permita un buen servicio |
