@@ -292,18 +292,18 @@ Link : <https://drive.google.com/open?id=1Lpo6ULJrrxEJYKSIvspR37oa_oGl_Adc>
 
 #### ** Entrevistas **
 
-| Entrevistados        | Versiones | Documentación  |
+| Entrevistados        | Descripción | Documentación  |
 | ----               | ----      | ----           |
-| * **Contexto Milenials** | Observaciones       | https://drive.google.com/open?id=1QeA6FEg_6cdVH-MOIHRPIRsph81RmBi1_gYcqzByBoM       |
-| * **Clientes Milenials**  | Vs-01 , Vs-02        | https://drive.google.com/open?id=1QeA6FEg_6cdVH-MOIHRPIRsph81RmBi1_gYcqzByBoM       |
-| * **Stakeholders** | CEO - Gerente de Operaciones - Product Manager  | https://drive.google.com/open?id=1mfBrjTp-LcUiF0Sdc4oY_IDgfnPlKijsuLT3EPyXjQE  |
+| * **Contexto Milenials** | Se observó la utilización de la banca online a una persona| https://drive.google.com/open?id=1QeA6FEg_6cdVH-MOIHRPIRsph81RmBi1_gYcqzByBoM       |
+| * **Clientes Milenials**  | Se mejoraron las preguntas, se tienen 2 versiones, se entrevistaron a 9 milenials  | https://drive.google.com/open?id=1QeA6FEg_6cdVH-MOIHRPIRsph81RmBi1_gYcqzByBoM       |
+| * **Stakeholders** | Se realizaron 4 entrevistas : CEO - Gerente de Operaciones - Product Manager  | https://drive.google.com/open?id=1mfBrjTp-LcUiF0Sdc4oY_IDgfnPlKijsuLT3EPyXjQE  |
 
 
 
 #### **Encuesta Online**
-| Encuestados       | Cantidad | Documentación  |
+| Encuestados       | Descripción | Documentación  |
 | ----              | ----      | ----          |
-| * **Milenials** | 19       | https://drive.google.com/open?id=1H1Dpg38wTcBQ0-Ekwco0b5edy9ma_gh6mZ4aM6qp7ws |
+| * **Milenials** | Se encuestaron a 19 milenials  | Preguntas: https://drive.google.com/open?id=1H1Dpg38wTcBQ0-Ekwco0b5edy9ma_gh6mZ4aM6qp7ws y Formulario Google <https://goo.gl/forms/x3nVF6e0PllB8XYj2>  |
 | * **Encuesta**     | Link 6 - Google-Form: <https://goo.gl/forms/x3nVF6e0PllB8XYj2> |
 
 
