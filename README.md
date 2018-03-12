@@ -292,7 +292,7 @@ Link : <https://drive.google.com/open?id=1Lpo6ULJrrxEJYKSIvspR37oa_oGl_Adc>
 
 
 
-
+### Proceso Research:
 
 | Cuantitativo                                                                                           |
 | :----------------------------------------------------------------------------------------------------: |
@@ -300,8 +300,8 @@ Link : <https://drive.google.com/open?id=1Lpo6ULJrrxEJYKSIvspR37oa_oGl_Adc>
 
 * Revision de fuentes externas:
   - Recopilación de data
-  - Conclusiones
   - Información de los servicios de la competencia ( Benchmark)
+  - Conclusiones
 
 
 
@@ -316,6 +316,21 @@ Cualitativo                                                                     
 | * **Contexto Milenials** | Se observó la utilización de la banca online a una persona| https://drive.google.com/open?id=1QeA6FEg_6cdVH-MOIHRPIRsph81RmBi1_gYcqzByBoM       |
 | * **Clientes Milenials**  | Se mejoraron las preguntas, se tienen 2 versiones, se entrevistaron a 9 milenials  | https://drive.google.com/open?id=1QeA6FEg_6cdVH-MOIHRPIRsph81RmBi1_gYcqzByBoM       |
 | * **Stakeholders** | Se realizaron 4 entrevistas : CEO - Gerente de Operaciones - Product Manager  | https://drive.google.com/open?id=1mfBrjTp-LcUiF0Sdc4oY_IDgfnPlKijsuLT3EPyXjQE  |
+
+##### Conclusiones de entrevistas
+
+```sh
+- Uso de servicios bancarios para manejar volúmenes grandes de dinero
+- Poco tiempo disponible
+- Realizan muchas actividades
+- Desagrado por las notificaciones de venta de productos de créditos
+- Lo que más utilizan es las operaciones de transferencia
+- Dificultad para realizar las transferencias interbancarias entre diferentes bancos
+- Dificultad para realizar las transferencias internacionales
+- Van al banco presencialmente para asegurar que realizarán la operación
+- No tienen mucho tiempo para dar seguimiento a reclamos
+```
+
 
 #### 🌏 Encuestas Online
 
