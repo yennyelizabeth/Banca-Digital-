@@ -187,7 +187,7 @@ Link : <https://drive.google.com/open?id=1Lpo6ULJrrxEJYKSIvspR37oa_oGl_Adc>
 
 
 
-#### Entrevistas:
+#### Entrevistas
 **I. Modelo y Versiones**
 
 * **Clientes**
