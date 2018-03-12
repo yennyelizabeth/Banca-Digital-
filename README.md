@@ -146,19 +146,24 @@ Para ello se han propuesto **crear un banco 100% digital** dirigido para **Mille
 
 | Nombre del proyecto | Lugar de Reunion | Dueño del Proyecto | Fecha y hora |
 | :-----------------: | :--------------: | :----------------: | :----------: |
-| Banca Digital "El Pais" | Banco "El Pais" | Paola Huaman - Yenny Quiñones | 25/02/2018 |
+| Banca Digital Easy Bank - "El Pais" | Banco "El Pais" | Paola Huaman - Yenny Quiñones | 25/02/2018 |
 
-| Invitado(s)| Rol del Proyecto | ¿Cual es la unica cosa que debemos hacer para que este sitio web / aplicacion valga la pena? | ¿Como se define su organizacion el exito? ¿Cual es el rol del sitio web / aplicacion para lograr ese exito? | ¿Que aspectos de la cultura interna o del entorno externo podrian poner en riesgo este rediseño / aplicacion? |
-| :----------------- | :--------------: | :----------------- | :----------- | :----------- |
-| CEO | Cofundador | Marcar tendencia nacional / dar propuestas de valor diferenciado | Toma de decisiones | Equipos multidisciplinarios y agiles |
-| Gerente de Operaciones | Cofundador | Las operaciones bancarias serian via online | Asegurar la ejecucion de los procedimientos y actividades operativas | Equipos multidisciplinarios y agiles |
-| Product Manager | Empleado | Trabajar en la creacion de nuevos equipos. | encargado del desarrollo, planificacion, lanzamiento y seguimiento del producto |  total autonomia y empoderamiento |
-| Front-end | Empleado | Asegurar la accesibilidad de los sitios y que estas sean interactivas | Traducir el diseño de las paginas en codigo para construir la interfaz de los sitios | total autonomia y empoderamiento |
-| Back-end | Empleado | Asegurar que la aplicacion o sitio web funcione | programacion de un sitio web y todos sus componentes, coordinando paginas, formularios, funcionalidades, bases de datos y servidores web | total autonomia y empoderamiento |
-| Gerente de Soportes y Redes | Empleado | Asegurarse del buen funcionamiento de los sistemas, servidores y recursos de red existentes | Soporte computacional de hardware y software a usuarios de la institucion y a la plataforma corporativa | total autonomia y empoderamiento |
-| Ejecutivo de Call Center | Proveedor | Ofreciendo al usuario una aplicacion que le solucionara la vida | Vender la aplicacion via telefonica | total autonomia y empoderamiento |
-| Gerente de Innovacion | Empleado | ser el primer banco digital en su telefono celular | Definir los lineamientos y politicas que deben cumplirse en lo referente a innovacion de la empresa | total autonomia y empoderamiento |
-| Gerente de Marketing | Empleado | Contar con un buen equipo de talento y la busqueda de tecnologia indicada para sus necesidades | Implementar las estrategias de marketing a corto y largo plazo de una empresa | total autonomia y empoderamiento |
+| Invitados | Rol del proyecto |
+| :-------: | :--------------: | 			
+|CEO	|	Cofundador	|
+|Gerente de operaciones de agencia |		Cofundador	|
+|Product Manager	|	Empleado	|
+|Front-end	|	Empleado	|
+|Back-end	|	Empleado	|
+|Gerente de Soporte y Redes	|	Empleado	|
+|Ejecutivo de call center	|	Proveedor	|
+|Gerente de innovacion	|	Empleado	|
+|Gerente de Marketing	|	Empleado	|
+
+| Actividad | Descripción | Documentación |
+| :-----------------: | :--------------: | 
+| Reunión Kick Off | Con el objetivo de presentar el Plan Research y hacer entrevistas que resulten en mejorar
+la investigación a realizar| https://drive.google.com/open?id=1bhBngESqolYa8YkM7AN0ereXnvWvZtrT0Hmae8Y-ejc |
 
 
 
@@ -239,7 +244,7 @@ Se elaboraron guias de entrevistas, tomando en cuenta el Plan Research previamen
 |Actividad        | Descripción | Documentación  |
 | ----               | ----      | ----           |
 | Elaboración de guias de entrevistas vs-01 | Según Plan Research      | https://drive.google.com/open?id=1rOEyyb45DPdhmGBpcZbBEgD91lZECB5vZA5ojatrl38  |
-| Elaboración de guias de entrevistas vs-02  | Según resultados de research cuantitativo     | https://drive.google.com/open?id=1rOEyyb45DPdhmGBpcZbBEgD91lZECB5vZA5ojatrl38  |
+| Elaboración de guias de entrevistas vs-02  | Según resultados de research cuantitativo     | https://drive.google.com/open?id=1ChXH_gEtNoIzg3aAi3GHz5PqCnapBHc8 |
 
 
 | Entrevistados        | Descripción | Documentación  |
