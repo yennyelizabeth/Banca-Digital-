@@ -9,9 +9,12 @@ notificaciones para confirmar las operaciones.
 
 ## En  [Peru](http://peru.com)
 
-# Banca Digital "El País"
 
-## Descripción:
+# Preeliminares
+
+## Banca Digital "El País"
+
+### Descripción:
 
 El Banco del País es uno de los bancos más importante de tu país. Es una institución de muchos años y actualmente está pasando por un proceso de transformación digital. Como parte de este proceso, han implementado un área de innovación que quiere llegar de una mejor manera a los usuarios más jóvenes.
 
@@ -21,7 +24,7 @@ Para ello se han propuesto **crear un banco 100% digital** dirigido para **Mille
 - **Nubank**. (https://www.nubank.com.br/)
 - **Simple**. (https://www.simple.com/)
 
-## El Reto:
+### El Reto Nro 01:
 
 * Identificar quienes son los **stakeholders** de tu proyecto.
 * Planear la regunion de **kick-off** detallando:
@@ -32,11 +35,11 @@ El product manager encargado te ha pedido además que para la sesión de kick - 
 
 Además, te piden que llegues a la reunión de kick - off con un **plan propuesto de investigación**, en el que detalles qué actividades de investigación, según tu criterio se deberían realizar, sustentando el por qué propones c/u de esas actividades.
 
-## Desarrollado para:
+#### Desarrollado para:
 
 **El Product Manager** de El Banco el País.
 
-## Proceso de desarrollo:
+#### Proceso de desarrollo:
 
 ![image-1](https://github.com/PaoSil/Banca-Digital-/blob/master/assets/proceso%20de%20desarrollo.jpg)
 
