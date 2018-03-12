@@ -410,7 +410,7 @@ Cualitativo                                                                     
 | ----               | ----      | ----           |
 | **Papel** | Se prototipó utilizando papel| https://drive.google.com/open?id=1qX2YA43ZYbyjBQoFMiAqiXiYaHfZWblu|
 
-![Inicio](assets/prototipo/papel/0-papel.png)
+![Inicio](assets/prototipo/Papel/0-papel.png)
 
 
 
@@ -418,7 +418,7 @@ Cualitativo                                                                     
 | ----               | ----      | ----           |
 | **Figma**  | Se utilizó figma para el prototipo  |   |
 
-![Inicio](assets/prototipo/figma/0-figma.png)
+![Inicio](assets/prototipo/Figma/0-figma.png)
 
 
 | Prototipo        | Descripción | Documentación  |
