@@ -32,19 +32,23 @@ Para ello se han propuesto **crear un banco 100% digital** dirigido para **Mille
 - [PLAN RESEARCH](#-plan-research)
 - [KICK OFF](#-kick-off)
 
-
 #### ORGANIZACIÓN PREVIA
-
 | Organización | Descripción | Documentación  |
-| ----      | ----        | ----           |
+| ----         | ----        | ----           |
 | **Actividades -Versión-Excel** | Se establecieron actividades de equipo| https://drive.google.com/open?id=17GFjk4fBbsan2_g4y1MJu7nC038aplgCa8I5V8H0RqM|
-
 | **Actividades - Versión-Trello** | Se establecieron actividades de equipo| https://github.com/PaoSil/Banca-Digital-/blob/master/assets/cronograma%20de%20actividades.png|
 
 #### INVESTIGACIÓN PREVIA
 | Investigación | Descripción | Documentación  |
-| ----      | ----        | ----           |
+| ----          | ----        | ----           |
 | **Aspectos de investigación -Versión-Excel** | Se buscó en internet y se realizó una lluvia de ideas| https://drive.google.com/open?id=1h0wBXJtuMqUMXP3tXyXKam3fD3MnrchRH1S0k8cSOjk|
+
+#### MODELO DE NEGOCIO
+| Modelo de Negocio | Descripción | Documentación  |
+| ----          | ----        | ----           |
+| **Banco Easy Bank 100% Digital Propuesto** | Se basó en las mejores prácticas de banca digital|https://github.com/PaoSil/Banca-Digital-/blob/master/assets/CANVAS%20-%20BANCA%20DIGITAL.png |
+| **Banco Easy Bank** | Esta actualización se basa en los resultados de la investigación realizada| https://canvanizer.com/canvas/wS2ORNJ0yCUTP|
+
 
 
 
