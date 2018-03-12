@@ -175,8 +175,8 @@ Link : <https://drive.google.com/open?id=1Lpo6ULJrrxEJYKSIvspR37oa_oGl_Adc>
 
 ### El Reto Nro 02:
 #### 🚩 Tabla de contenido
-- [Entrevistas](#-entrevistas)
-- [Proceso Research](#-proceso-research)
+- [Entrevistas](#entrevistas)
+- [Proceso Research](#proceso-research)
     - [Cuantitativo](#cuantitativo)
     - [Cualitativo](#cuanlitativo)
 - [Features](#-features)
@@ -188,9 +188,13 @@ Link : <https://drive.google.com/open?id=1Lpo6ULJrrxEJYKSIvspR37oa_oGl_Adc>
 
 
 #### Entrevistas
+```sh
+
+
 **I. Modelo y Versiones**
 
 * **Clientes**
+[![Preguntas Entrevista Clientes - Vs-01 /Vs-02](https://drive.google.com/open?id=1QeA6FEg_6cdVH-MOIHRPIRsph81RmBi1_gYcqzByBoM)] 
 Link 3: <https://drive.google.com/open?id=1QeA6FEg_6cdVH-MOIHRPIRsph81RmBi1_gYcqzByBoM>
 
 * **Stakeholders Internos**
@@ -201,6 +205,7 @@ Link 5: <https://drive.google.com/open?id=1H1Dpg38wTcBQ0-Ekwco0b5edy9ma_gh6mZ4aM
 
 Link 6 - Google-Form: <https://goo.gl/forms/x3nVF6e0PllB8XYj2>
 
+```
 
 #### Proceso Research:
 ##### Cuantitativo 
