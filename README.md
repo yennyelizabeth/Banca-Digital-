@@ -286,14 +286,12 @@ Link : <https://drive.google.com/open?id=1Lpo6ULJrrxEJYKSIvspR37oa_oGl_Adc>
   - [Cuantitativo](#cuantitativo)
     - [Recopilación Data](#recopilación-data)
     - [Benchmarck](#benchmarck)
-    - [Conclusiones 1](#conclusiones-1)    
-
+    - [Conclusiones 1](#conclusiones-1) 
   - [Cualitativo](#cualitativo)
     - [Entrevistas Presenciales](#entrevistas-presenciales)
     - [Conclusiones 2](#conclusiones-2)
     - [Encuestas Online](#encuestas-online)
-    - [Conclusiones 3](#conclusiones-3)
-  
+    - [Conclusiones 3](#conclusiones-3)  
   - [Conclusiones 4](#conclusiones-4)
 
 - [Prototipo](#prototipo)
@@ -301,7 +299,6 @@ Link : <https://drive.google.com/open?id=1Lpo6ULJrrxEJYKSIvspR37oa_oGl_Adc>
   - [Figma](#figma)
   - [Marvel Versión 1](#marvel-versión-1)
   - [Marvel Versión 2](#marvel-versión-2)
-
 - [Testing](#testing)
   - [Testing Papel](#testing-papel)
   - [Figma](#figma)
@@ -332,16 +329,16 @@ Cualitativo                                                                     
 
 | Entrevistados        | Descripción | Documentación  |
 | ----               | ----      | ----           |
-| * **Contexto Milenials** | Se observó la utilización de la banca online a una persona| https://drive.google.com/open?id=1QeA6FEg_6cdVH-MOIHRPIRsph81RmBi1_gYcqzByBoM       |
-| * **Clientes Milenials**  | Se mejoraron las preguntas, se tienen 2 versiones, se entrevistaron a 9 milenials  | https://drive.google.com/open?id=1QeA6FEg_6cdVH-MOIHRPIRsph81RmBi1_gYcqzByBoM       |
-| * **Stakeholders** | Se realizaron 4 entrevistas : CEO - Gerente de Operaciones - Product Manager  | https://drive.google.com/open?id=1mfBrjTp-LcUiF0Sdc4oY_IDgfnPlKijsuLT3EPyXjQE  |
+| **Contexto Milenials** | Se observó la utilización de la banca online a una persona| https://drive.google.com/open?id=1QeA6FEg_6cdVH-MOIHRPIRsph81RmBi1_gYcqzByBoM       |
+| **Clientes Milenials**  | Se mejoraron las preguntas, se tienen 2 versiones, se entrevistaron a 9 milenials  | https://drive.google.com/open?id=1QeA6FEg_6cdVH-MOIHRPIRsph81RmBi1_gYcqzByBoM       |
+| **Stakeholders** | Se realizaron 4 entrevistas : CEO - Gerente de Operaciones - Product Manager  | https://drive.google.com/open?id=1mfBrjTp-LcUiF0Sdc4oY_IDgfnPlKijsuLT3EPyXjQE  |
 
 #### Conclusiones 2
 
 ```sh
 - Uso de servicios bancarios para manejar volúmenes grandes de dinero
-- Poco tiempo disponible
-- Realizan muchas actividades
+- Tienen poco tiempo disponible
+- Los Milenials realizan muchas actividades
 - Desagrado por las notificaciones de venta de productos de créditos
 - Lo que más utilizan es las operaciones de transferencia
 - Dificultad para realizar las transferencias interbancarias entre diferentes bancos
@@ -388,7 +385,7 @@ Cualitativo                                                                     
 
 - **Resumen**. <https://drive.google.com/open?id=1h4HykauWINu0Wbm87BaV5A-fSjTaS8Cv>
 - **Conclusiones**.
-
+```sh
 | Nro | Conclusiones de Encuesta Online|
 | :-----------------: | :--------------: |
 | 1 | Lo aspectifas bajas, muchos beneficios y buena información |
@@ -405,3 +402,36 @@ Cualitativo                                                                     
 | 13 | Diversidad de opciones en planes de cuentas que se ajust  |
 | 14 | Importancia de que trámite de una cuenta nueva no sea engo|
 | 15 | Importancia de que trámite permita un buen servicio |
+
+```
+#### Prototipo
+
+| Prototipo        | Descripción | Documentación  |
+| ----               | ----      | ----           |
+| **Papel** | Se prototipó utilizando papel|      | https://drive.google.com/open?id=1qX2YA43ZYbyjBQoFMiAqiXiYaHfZWblu|
+
+
+| Prototipo        | Descripción | Documentación  |
+| ----               | ----      | ----           |
+| **Figma**  | Se utilizó figma para el prototipo  |   |
+| **Marvel Versión 1** | Se utilizó Marvel para la demo del prototipo versión 1 | |
+
+| Prototipo        | Descripción | Documentación  |
+| ----               | ----      | ----           |
+| **Marvel Versión 2** | Se utilizó Marvel para la demo del prototipo versión 2  | |
+
+
+
+
+
+- [Prototipo](#prototipo)
+  - [Papel](#papel)
+  - [Figma](#figma)
+  - [Marvel Versión 1](#marvel-versión-1)
+  - [Marvel Versión 2](#marvel-versión-2)
+- [Testing](#testing)
+  - [Testing Papel](#testing-papel)
+  - [Figma](#figma)
+  - [Testing Marvel Versión 1](#testing-marvel-versión-1)
+  - [Testing Marvel Versión 2](#testing-marvel-versión-2)
+
