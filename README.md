@@ -195,18 +195,18 @@ Link : <https://drive.google.com/open?id=1Lpo6ULJrrxEJYKSIvspR37oa_oGl_Adc>
     - [Benchmarck](#benchmarck)
     - [Conclusiones 1](#conclusiones-1) 
   - [Cualitativo](#cualitativo)
-    - [Entrevistas Presenciales](# entrevistas-presenciales)
+    - [Entrevistas Presenciales](#-entrevistas-presenciales)
     - [Conclusiones 2](#conclusiones-2)
-    - [Encuestas Online](# encuestas-online)
+    - [Encuestas Online](#-encuestas-online)
     - [Conclusiones 3](#conclusiones-3)  
   - [Conclusiones 4](#conclusiones-4)
 
-- [PROTOTIPO](# prototipo)
+- [PROTOTIPO](#-prototipo)
   - [Papel](#papel)
   - [Figma](#figma)
   - [Figma](#marvel) 
 
-- [TESTING](# testing)
+- [TESTING](#-testing)
 
 
 ### PROCESO RESEARCH:
