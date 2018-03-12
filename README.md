@@ -281,7 +281,7 @@ Link : <https://drive.google.com/open?id=1Lpo6ULJrrxEJYKSIvspR37oa_oGl_Adc>
 - [Entrevistas](#entrevistas)
 - [Proceso Research](#proceso-research)
     - [Cuantitativo](#cuantitativo)
-    - [Cualitativo](#cuanlitativo)
+    - [Cualitativo](#cualitativo)
 - [Features](#-features)
     - [Productive Markdown mode](#productive-markdown-mode)
     - [Easy WYSIWYG mode](#easy-wysiwyg-mode)
@@ -290,30 +290,23 @@ Link : <https://drive.google.com/open?id=1Lpo6ULJrrxEJYKSIvspR37oa_oGl_Adc>
 
 
 
-#### Entrevistas
+#### ** Entrevistas **
 
 | Entrevistados        | Versiones | Documentación  |
 | ----               | ----      | ----           |
-| Clientes Milenials | ` Vs-01 , Vs-02        | `https://drive.google.com/open?id=1QeA6FEg_6cdVH-MOIHRPIRsph81RmBi1_gYcqzByBoM       |
-| Stakeholders | ` CEO - Gerente de Operaciones - Product Manager  | `https://drive.google.com/open?id=1mfBrjTp-LcUiF0Sdc4oY_IDgfnPlKijsuLT3EPyXjQE  |
+| * **Contexto Milenials** | Observaciones       | https://drive.google.com/open?id=1QeA6FEg_6cdVH-MOIHRPIRsph81RmBi1_gYcqzByBoM       |
+| * **Clientes Milenials**  | Vs-01 , Vs-02        | https://drive.google.com/open?id=1QeA6FEg_6cdVH-MOIHRPIRsph81RmBi1_gYcqzByBoM       |
+| * **Stakeholders** | CEO - Gerente de Operaciones - Product Manager  | https://drive.google.com/open?id=1mfBrjTp-LcUiF0Sdc4oY_IDgfnPlKijsuLT3EPyXjQE  |
 
 
-**I. Modelo y Versiones**
 
-* **Clientes**
-[![Preguntas Entrevista Clientes - Vs-01 /Vs-02](https://drive.google.com/open?id=1QeA6FEg_6cdVH-MOIHRPIRsph81RmBi1_gYcqzByBoM)] (https://drive.google.com/open?id=1QeA6FEg_6cdVH-MOIHRPIRsph81RmBi1_gYcqzByBoM)
+#### **Encuesta Online**
+| Encuestados       | Cantidad | Documentación  |
+| ----              | ----      | ----          |
+| * **Milenials** | 19       | https://drive.google.com/open?id=1H1Dpg38wTcBQ0-Ekwco0b5edy9ma_gh6mZ4aM6qp7ws |
+| * **Encuesta**     | Link 6 - Google-Form: <https://goo.gl/forms/x3nVF6e0PllB8XYj2> |
 
-Link 3: <https://drive.google.com/open?id=1QeA6FEg_6cdVH-MOIHRPIRsph81RmBi1_gYcqzByBoM>
 
-* **Stakeholders Internos**
-Link 4: <https://drive.google.com/open?id=1mfBrjTp-LcUiF0Sdc4oY_IDgfnPlKijsuLT3EPyXjQE>
-
-* **Encuesta Online**
-Link 5: <https://drive.google.com/open?id=1H1Dpg38wTcBQ0-Ekwco0b5edy9ma_gh6mZ4aM6qp7ws>
-
-Link 6 - Google-Form: <https://goo.gl/forms/x3nVF6e0PllB8XYj2>
-
-```
 
 #### Proceso Research:
 ##### Cuantitativo
@@ -324,7 +317,7 @@ Link 6 - Google-Form: <https://goo.gl/forms/x3nVF6e0PllB8XYj2>
   - Conclusiones
   - Información de los servicios de la competencia ( Benchmark)
 
-##### Cuanlitativo
+##### Cualitativo
 
 | Cualitativo                                                                                            |
 | :----------------------------------------------------------------------------------------------------: |
