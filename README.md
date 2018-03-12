@@ -304,9 +304,23 @@ Link : <https://drive.google.com/open?id=1Lpo6ULJrrxEJYKSIvspR37oa_oGl_Adc>
 
 ### PROCESO RESEARCH:
 
+En este proceso, conoceremos el contexto de la transformación digital en el banco. En tal sentido 
+investigaremos a clientes ( milenialas) , el negocio de banco, las mejores prácticas y soluciones que
+ya existen en el mundo y en el pais.
+
+- El lado del cliente
+![Inicio](assets/milenials.jpg)  
+
+- El lado del banco
+![Inicio](assets/cola.jpg) 
+
+
+- La relación cliente-banco
+![Inicio](Banking-Friendly.jpg) 
+
+
 | Cuantitativo                                                                                           |
 | :----------------------------------------------------------------------------------------------------: |
-
 
 * Revision de fuentes externas:
   - Recopilación de data
@@ -383,24 +397,23 @@ Cualitativo                                                                     
 - **Resumen**. <https://drive.google.com/open?id=1h4HykauWINu0Wbm87BaV5A-fSjTaS8Cv>
 
 ```sh}
+| Nro | Conclusiones de Procesos Research
+| :-: | :--------------------------------                                                         
 
 Del lado del negocio
-
-| Nro | Conclusiones de Procesos Research                                                          |
-| :-: | :-------------------------------                                                         : |
-| 1 | La inversión en crecimiento de banca personal no es de riesgo  |
-| 2 | El banco quiere que los clientes milenials tengan más cercanía con su productos |
-| 3 | El banco quiere mantener y mejorar sus canales de atención al cliente|
+| 1 | La inversión en crecimiento de banca personal no es de riesgo .
+| 2 | El banco quiere que los clientes milenials tengan más cercanía con su productos .
+| 3 | El banco quiere mantener y mejorar sus canales de atención al cliente.
 
 Del lado del cliente
-| 4 | Los milenials realizan operaciones frecuentes : transferencias y pago de servicios |
-| 5 | Realizan operaciones poco frecuentes: ahorro |
-| 6 | Tienen mas de un banco |
+| 4 | Los milenials realizan operaciones frecuentes : transferencias y pago de servicios .
+| 5 | Realizan operaciones poco frecuentes: ahorro .
+| 6 | Tienen mas de un banco.
 
 Del lado del cliente, y que el banco podría considerar
-| 5 | Les agradaría tener recordatorios de pagos de servicios y estos cada vez abarquen más servicios |
-| 6 | No se percatan mucho en el diseño de las aplicaciones, más si en su funcionalidad y disponibilidad |
-| 7 | Prefieren realizar operaciones bancarias según su organización y planificación |
+| 5 | Les agradaría tener recordatorios de pagos de servicios y estos cada vez abarquen más servicios.
+| 6 | No se percatan mucho en el diseño de las aplicaciones, más si en su funcionalidad y disponibilidad.
+| 7 | Prefieren realizar operaciones bancarias según su organización y planificación .
 ```
 #### 🚀 PROTOTIPO
 
