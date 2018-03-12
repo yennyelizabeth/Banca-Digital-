@@ -165,8 +165,7 @@ Definiendo a nuestros principales  **STAKEHOLDERS**
 
 Segun el Plan de Research.
 Link : <https://drive.google.com/open?id=1Lpo6ULJrrxEJYKSIvspR37oa_oGl_Adc>
-=======
->>>>>>> b34372aa67bfefe521c658d238642cfa31c5112b
+
 ### Definición de Actividades:
 
 ![image-2](https://github.com/PaoSil/Banca-Digital-/blob/master/assets/cronograma%20de%20actividades.png)
