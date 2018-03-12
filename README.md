@@ -83,7 +83,7 @@ Para ello se han propuesto **crear un banco 100% digital** dirigido para **Mille
 
 ### PLAN RESEARCH:
 
-![Inicio-3](assets/Estrategia de negocio.png)
+![Inicio-3](assets/plan.png)
 
 ```sh
 | Objetivos                                                                                              |
@@ -223,24 +223,48 @@ ya existen en el mundo y en el pais.
 | Cuantitativo                                                                                           |
 | :----------------------------------------------------------------------------------------------------: |
 
-* Revision de fuentes externas:
-  - Recopilación de data
+* **Revision de fuentes externas:**
+
+
 | Actividad  | Descripción | Documentación  |
 | ----       | ----        | ----           |
 | **Análisis de Perfil Milenial** | Se recopiló información de fuentes externas| https://drive.google.com/open?id=15FREuVgbHBYK1ICdjqOd4-NUORzasyugRaNBaWemmTA |
 
 
-  - Información de los servicios de la competencia ( Benchmark)
+* **Información de los servicios de la competencia ( Benchmark)**
 
 | Actividad  | Descripción | Documentación  |
 | ----       | ----        | ----           |
-| **Análisis de la competencia** | Se recopiló información de fuentes externas|  |
+| **Revisión de Banca Local** | Se recopiló información de fuentes externas | https://drive.google.com/open?id=17HY1Dj5HjIed0lpM-kvcn-rYLgyLp4mr |
+| **Revisión de Banca Internacional** | Se recopiló información de fuentes externas | https://drive.google.com/open?id=13MRdkhcngVuIswvNDnIQLjTmanbg5IeM |
+
+| **Análisis de la competencia** | Se obtuvo las siguientes conclusiones| https://drive.google.com/open?id=1nSEVeSe8hDfcEyLnD0IA0qssF6UlufWatdAkQ7c-7Wg |
 
 
 
 #### Conclusiones 1
-```sh
 
+A nivel Local
+
+```sh
+- Malos canales de atención de reclamos
+- Estrategia de recomendación con retribución económica para la descarga y uso de app
+- Bbva y Bcp utilizan colores fuertes y muy distintivos del banco de respaldo
+- Interbank tiene un diseño de interacción ligero y más intuitivo y menos recargado, un buen referente.
+- Distintas formas de navegar en menus y submenus tediosos
+- Contiene las principales operaciones frecuentes de clientes, más no todas
+- Problemas técnicos con la disponibilidad de la plataforma movil.
+- 
+```
+
+A nivel Internacional
+
+```sh
+- Posibilidad de solicitar tarjeta de cuenta ahorro por banca online y banca movil 
+- Personalización en el diseño de tarjeta solicitada
+- Diseño de vistas interactivas ligeras de color y texto 
+- Diseño intuitivo
+- Navegación fácil.
 
 ```
 
