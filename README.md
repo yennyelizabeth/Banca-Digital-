@@ -42,6 +42,7 @@ Para ello se han propuesto **crear un banco 100% digital** dirigido para **Mille
 | **Aspectos de investigación -Versión-Excel** | Se buscó en internet y se realizó una lluvia de ideas| https://drive.google.com/open?id=1h0wBXJtuMqUMXP3tXyXKam3fD3MnrchRH1S0k8cSOjk|
 
 #### MODELO DE NEGOCIO
+![Inicio](assets/CANVAS-BANCA DIGITAL.png)
 | Modelo de Negocio | Descripción | Documentación  |
 | ----          | ----        | ----           |
 | **Banco Easy Bank 100% Digital Propuesto** | Se basó en las mejores prácticas de banca digital|https://github.com/PaoSil/Banca-Digital-/blob/master/assets/CANVAS%20-%20BANCA%20DIGITAL.png |
