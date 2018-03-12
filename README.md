@@ -43,15 +43,13 @@ Para ello se han propuesto **crear un banco 100% digital** dirigido para **Mille
 
 #### MODELO DE NEGOCIO
 
-![Inicio](assets/CANVAS-BANCA DIGITAL.png)
+![Inicio-1](assets/CANVAS-BANCA DIGITAL.png)
 
 | Modelo de Negocio | Descripción | Documentación  |
 | ----          | ----        | ----           |
 | **Banco Easy Bank 100% Digital Propuesto** | Se basó en las mejores prácticas de banca digital|https://github.com/PaoSil/Banca-Digital-/blob/master/assets/CANVAS%20-%20BANCA%20DIGITAL.png |
 | **Banco Easy Bank** | Esta actualización se basa en los resultados de la investigación realizada| https://canvanizer.com/canvas/wS2ORNJ0yCUTP|
 
-
-![image-2](https://canvanizer.com/canvas/wS2ORNJ0yCUTP)
 
 #### STAKEHOLDERS:
 
@@ -74,12 +72,7 @@ Para ello se han propuesto **crear un banco 100% digital** dirigido para **Mille
 | Gerente de Soporte y Redes |Empleados | Interno | Mantenimiento Plataforma | |
 | Gerente de Marketing |Empleados | Interno | Estrategia Comercial | |
 
-
-
-
-|Aspectos importantes propuestos por los Stakeholders                                                    |
-| :----------------------------------------------------------------------------------------------------: |
-
+##### Aspectos importantes propuestos por los Stakeholders 
 * **Diferenciación**
 * **Accesible**
 * **Interactivo con el Usuario**
@@ -87,6 +80,67 @@ Para ello se han propuesto **crear un banco 100% digital** dirigido para **Mille
 * **Fácil uso**
 * **Disminución de reclamos**
 * **Atención las 24 horas**
+
+### PLAN RESEARCH:
+```sh
+| Objetivos                                                                                              |
+| :----------------------------------------------------------------------------------------------------: |
+* Planear : la Investigacion cuantitativa y cualitativa.
+* Reclutar : personas que cumplan el perfil idoneo para validar supuestos.
+* Conducir : la investigacion de la problematica y expectativas de los clientes.
+* Analizar : supuestos y validaciones.
+* Reportar : conclusiones y feedback.
+
+| Alcance                                                                                                |
+| :----------------------------------------------------------------------------------------------------: |
+* Propuesta : baja utilizacion de operacionesbancarias online.
+* Propuesta de Modelo de Negocio : Banca digital.
+* Propuesta de Proyecto : **EASY BANK** - Asistente inteligente de Banca digital online.
+* Linea de tiempo del proyecto : 1 semana y media.
+* Quienes son los usuarios : Millenials.
+
+|Metodologia                                                                                             |
+| :----------------------------------------------------------------------------------------------------: |
+* Revision de fuentes externas:
+  - Recopilación y Conclusiones de Investigaciones de servicios ya existentes.
+  - Información de los servicios de la competencia.
+  - Documentos legales relacionados.
+* Entrevistas:
+  - Lista de Perfiles a quienes evaluar.
+  - Guía de Entrevistas.
+  - Modelos de Entrevistas.
+
+|Actividades                                                                                             |
+| :----------------------------------------------------------------------------------------------------: |
+* Cronograma de actividades y duracion.
+
+|Estrategia                                                                                              |
+| :----------------------------------------------------------------------------------------------------: |
+* Limitaciones de economia:
+  - Reclutar personas conocidas (amistades, familiares, personas cercanas al lugar de trabajo).
+  - No se le dará un regalo por la entrevista a las personas conocidas.
+* Limitaciones de ubicación:
+  - Se tiene acccesibilidad de distancia a agencias de banco para entrevistar ( Bcp / Bbva ).
+  - Entrevista vía skype.
+  - Encuestas vía form google.
+* Limitaciones de confianza:
+  - Reclutar personas conocidas (amistades, familiares ).
+  - Reclutar nro de personas mínimas no conocidas cercanas al lugar de trabajo.
+* Limitaciones de tiempo:
+  - Recabar información ya existente de investigaciones de usabilidad, perfiles, negocio, etc.
+  - Personas reclutadas que cumplen el perfil analizado.
+  - Entrevistas realizadas en horario noche.
+  - Entrevistas realizadas en días de fin de semana.
+
+```
+
+#### Cronograma de Actividades:
+
+| Organización | Descripción | Documentación  |
+| ----         | ----        | ----           |
+| **Actividades -Versión-Excel** | Se establecieron actividades de equipo| https://drive.google.com/open?id=17GFjk4fBbsan2_g4y1MJu7nC038aplgCa8I5V8H0RqM|
+| **Actividades - Versión-gráfico-trello** | Se establecieron actividades de equipo| https://github.com/PaoSil/Banca-Digital-/blob/master/assets/cronograma%20de%20actividades.png|
+
 
 ### KICK OFF MEETING:
 
@@ -106,86 +160,7 @@ Para ello se han propuesto **crear un banco 100% digital** dirigido para **Mille
 | Gerente de Innovacion | Empleado | ser el primer banco digital en su telefono celular | Definir los lineamientos y politicas que deben cumplirse en lo referente a innovacion de la empresa | total autonomia y empoderamiento |
 | Gerente de Marketing | Empleado | Contar con un buen equipo de talento y la busqueda de tecnologia indicada para sus necesidades | Implementar las estrategias de marketing a corto y largo plazo de una empresa | total autonomia y empoderamiento |
 
-### PLAN RESEARCH:
-```sh
 
-| Objetivos                                                                                              |
-| :----------------------------------------------------------------------------------------------------: |
-
-* Planear : la Investigacion cuantitativa y cualitativa.
-* Reclutar : personas que cumplan el perfil idoneo para validar supuestos.
-* Conducir : la investigacion de la problematica y expectativas de los clientes.
-* Analizar : supuestos y validaciones.
-* Reportar : conclusiones y feedback.
-
-| Alcance                                                                                                |
-| :----------------------------------------------------------------------------------------------------: |
-
-* Propuesta : baja utilizacion de operacionesbancarias online.
-* Propuesta de Modelo de Negocio : Banca digital.
-* Propuesta de Proyecto : **EASY BANK** - Asistente inteligente de Banca digital online.
-* Linea de tiempo del proyecto : 1 semana y media.
-* Quienes son los usuarios : Millenials.
-
-|Metodologia                                                                                             |
-| :----------------------------------------------------------------------------------------------------: |
-
-* Revision de fuentes externas:
-  - Recopilación y Conclusiones de Investigaciones de servicios ya existentes.
-  - Información de los servicios de la competencia.
-  - Documentos legales relacionados.
-* Entrevistas:
-  - Lista de Perfiles a quienes evaluar.
-  - Guía de Entrevistas.
-  - Modelos de Entrevistas.
-
-|Actividades                                                                                             |
-| :----------------------------------------------------------------------------------------------------: |
-
-* Cronograma de actividades y duracion.
-
-|Estrategia                                                                                              |
-| :----------------------------------------------------------------------------------------------------: |
-
-* Limitaciones de economia:
-  - Reclutar personas conocidas (amistades, familiares, personas cercanas al lugar de trabajo).
-  - No se le dará un regalo por la entrevista a las personas conocidas.
-* Limitaciones de ubicación:
-  - Se tiene acccesibilidad de distancia a agencias de banco para entrevistar ( Bcp / Bbva ).
-  - Entrevista vía skype.
-  - Encuestas vía form google.
-* Limitaciones de confianza:
-  - Reclutar personas conocidas (amistades, familiares ).
-  - Reclutar nro de personas mínimas no conocidas cercanas al lugar de trabajo.
-* Limitaciones de tiempo:
-  - Recabar información ya existente de investigaciones de usabilidad, perfiles, negocio, etc.
-  - Personas reclutadas que cumplen el perfil analizado.
-  - Entrevistas realizadas en horario noche.
-  - Entrevistas realizadas en días de fin de semana.
-
-|Aspectos importantes propuestos por los Stakeholders                                                    |
-| :----------------------------------------------------------------------------------------------------: |
-
-* **Diferenciación**
-* **Accesible**
-* **Interactivo con el Usuario**
-* **Romper con los esquemas de los bancos tradicionales**
-* **Fácil uso**
-* **Disminución de reclamos**
-* **Atención las 24 horas**
-
-```
-
-* Ver Plan y versiones Link: <https://drive.google.com/open?id=1e7Q3W9qPoOao2gj6o22rM5MiZN78rKut>
-
-
-
-#### Cronograma de Actividades:
-
-| Organización | Descripción | Documentación  |
-| ----         | ----        | ----           |
-| **Actividades -Versión-Excel** | Se establecieron actividades de equipo| https://drive.google.com/open?id=17GFjk4fBbsan2_g4y1MJu7nC038aplgCa8I5V8H0RqM|
-| **Actividades - Versión-gráfico-trello** | Se establecieron actividades de equipo| https://github.com/PaoSil/Banca-Digital-/blob/master/assets/cronograma%20de%20actividades.png|
 
 
 ### El Reto Nro 02:
