@@ -49,7 +49,7 @@ Presentación de kickOff y conversaciones en el equipo para poder analizar cuál
 
 #### Stakeholders:
 
-Para la definicion de nuestros principales  **STAKEHOLDERS**
+Para la definición de nuestros principales  **STAKEHOLDERS**
 
 | Stakeholders | Descripción | Tipo |Rol |
 | :----------- | :---------: | :---------: | :----------: |
