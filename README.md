@@ -143,10 +143,13 @@ Para ello se han propuesto **crear un banco 100% digital** dirigido para **Mille
 
 
 ### KICK OFF MEETING:
+Descripción del Proyecto
 
 | Nombre del proyecto | Lugar de Reunion | Dueño del Proyecto | Fecha y hora |
 | :-----------------: | :--------------: | :----------------: | :----------: |
 | Banca Digital Easy Bank - "El Pais" | Banco "El Pais" | Paola Huaman - Yenny Quiñones | 25/02/2018 |
+
+Invitados del Proyecto
 
 | Invitados | Rol del proyecto |
 | :-------: | :--------------: | 			
@@ -160,10 +163,11 @@ Para ello se han propuesto **crear un banco 100% digital** dirigido para **Mille
 |Gerente de innovacion	|	Empleado	|
 |Gerente de Marketing	|	Empleado	|
 
+Documentación de actividad
+
 | Actividad | Descripción | Documentación |
 | :-----------------: | :--------------: |  :--------------: | 
-| Reunión Kick Off | Con el objetivo de presentar el Plan Research y hacer entrevistas que resulten en mejorar
-la investigación a realizar| https://drive.google.com/open?id=1bhBngESqolYa8YkM7AN0ereXnvWvZtrT0Hmae8Y-ejc |
+| Reunión Kick Off | Con el objetivo de presentar el Plan Research y hacer entrevistas que resulten en mejorar la investigación a realizar | https://drive.google.com/open?id=1bhBngESqolYa8YkM7AN0ereXnvWvZtrT0Hmae8Y-ejc |
 
 
 
