@@ -56,6 +56,8 @@ Definiendo a nuestros principales  **STAKEHOLDERS**
 | :----------- | :---------: | :---------: | :----------: |
 | SBS          | Entidad reguladora | Externo |Regulador |
 | BCR          | Entidad reguladora | Externo |Regulador |
+| Millenials | Clientes | Externo | Usuarios Externos | |
+| Ejecutivo de Call Center | Proveedores | Externo | Soporte Cliente | |
 | Inversionistas | Accionistas | Externo - Interno |Patrocinador |
 | Dueño del Banco País | Empleado | Interno |Toma de decisiones |
 | CEO | Cofundador | Interno |Cofundador |
@@ -66,8 +68,7 @@ Definiendo a nuestros principales  **STAKEHOLDERS**
 | Back- End | Empleados | Interno | Desarrollo de Plataforma | |
 | Gerente de Soporte y Redes |Empleados | Interno | Mantenimiento Plataforma | |
 | Gerente de Marketing |Empleados | Interno | Estrategia Comercial | |
-| Millenials | Clientes | Externo | Usuarios Externos | |
-| Ejecutivo de Call Center | Proveedores | Externo | Soporte Cliente | |
+
 
 
 
