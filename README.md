@@ -161,7 +161,7 @@ Para ello se han propuesto **crear un banco 100% digital** dirigido para **Mille
 |Gerente de Marketing	|	Empleado	|
 
 | Actividad | Descripción | Documentación |
-| :-----------------: | :--------------: | 
+| :-----------------: | :--------------: |  :--------------: | 
 | Reunión Kick Off | Con el objetivo de presentar el Plan Research y hacer entrevistas que resulten en mejorar
 la investigación a realizar| https://drive.google.com/open?id=1bhBngESqolYa8YkM7AN0ereXnvWvZtrT0Hmae8Y-ejc |
 
