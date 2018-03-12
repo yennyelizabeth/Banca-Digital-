@@ -43,7 +43,7 @@ Para ello se han propuesto **crear un banco 100% digital** dirigido para **Mille
 
 #### MODELO DE NEGOCIO
 
-![Inicio-1](assets/CANVAS-BANCA DIGITAL.png)
+![Inicio-1](assets/grafico-canvas.png)
 
 | Modelo de Negocio | Descripción | Documentación  |
 | ----          | ----        | ----           |
@@ -72,7 +72,7 @@ Para ello se han propuesto **crear un banco 100% digital** dirigido para **Mille
 | Gerente de Soporte y Redes |Empleados | Interno | Mantenimiento Plataforma | |
 | Gerente de Marketing |Empleados | Interno | Estrategia Comercial | |
 
-##### Aspectos importantes propuestos por los Stakeholders 
+##### Aspectos importantes propuestos por los Stakeholders , para la propuesta de valor al cliente.
 * **Diferenciación**
 * **Accesible**
 * **Interactivo con el Usuario**
@@ -210,7 +210,18 @@ ya existen en el mundo y en el pais.
 
 * Revision de fuentes externas:
   - Recopilación de data
+| Actividad  | Descripción | Documentación  |
+| ----       | ----        | ----           |
+| **Análisis de Perfil Milenial** | Se recopiló información de fuentes externas| https://drive.google.com/open?id=15FREuVgbHBYK1ICdjqOd4-NUORzasyugRaNBaWemmTA |
+
+
   - Información de los servicios de la competencia ( Benchmark)
+
+| Actividad  | Descripción | Documentación  |
+| ----       | ----        | ----           |
+| **Análisis de la competencia** | Se recopiló información de fuentes externas|  |
+
+
 
 #### Conclusiones 1
 ```sh
@@ -223,6 +234,13 @@ Cualitativo                                                                     
 
 
 #### 💾 Entrevistas Presenciales
+
+Se elaboraron guias de entrevistas, tomando en cuenta el Plan Research previamente definido.
+|Actividad        | Descripción | Documentación  |
+| ----               | ----      | ----           |
+| Elaboración de guias de entrevistas vs-01 | Según Plan Research      | https://drive.google.com/open?id=1rOEyyb45DPdhmGBpcZbBEgD91lZECB5vZA5ojatrl38  |
+| Elaboración de guias de entrevistas vs-02  | Según resultados de research cuantitativo     | https://drive.google.com/open?id=1rOEyyb45DPdhmGBpcZbBEgD91lZECB5vZA5ojatrl38  |
+
 
 | Entrevistados        | Descripción | Documentación  |
 | ----               | ----      | ----           |
