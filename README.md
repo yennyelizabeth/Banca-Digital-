@@ -344,8 +344,10 @@ Cualitativo                                                                     
 
 ```sh
 - Para elegir un banco: buena atención, comisiones bajas, beneficios y buena información.
-- La decisión para abrir una cuenta a para compras, ordenar y administrar el dinero, y para recibir el sueldo .
-- La decisión de cambio de banco es por motivos de: excesivos cobros a la cuenta , irregularidades en el estado de cuenta y ofrecimiento de más operaciones gratuitas por otro banco.
+- La decisión para abrir una cuenta es para compras, ordenar y administrar el dinero,
+  y para recibir el sueldo .
+- La decisión de cambio de banco es por motivos de: excesivos cobros a la cuenta ,
+  irregularidades en el estado de cuenta y ofrecimiento de más operaciones gratuitas por otro banco.
 - La gran mayoría ya cuentan con una cuenta visa y/o mastercard
 - Importancia en abrir una cuenta de banco
 - Percepción de engorroso con respecto al del trámite de abrir una cuenta
@@ -353,8 +355,9 @@ Cualitativo                                                                     
 - Importancia por las bajas tasas de cobros para abrir una cuenta
 - Abrir una cuenta para pagar servicios , educación y vivienda
 - Creen que la cuenta corriente/ahorro sirve para disponer de gastos a realizar, comprar y ahorrar.
-- No se encuentran informados completamente los beneficios de la cuenta de ahorro/corriente
-- Creen que es importante la seriedad, imagen, publicidad del banco por que les genera seguridad, confianza y buena atención al cliente
+- No se encuentran informados de los beneficios de la cuenta de ahorro/corriente
+- Creen que es importante la seriedad, imagen, publicidad del banco 
+  por que les genera seguridad, confianza y buena atención al cliente
 - Diversidad de opciones en planes de cuentas que se ajusten a sus requerimientos.
 - Importancia de que trámite de una cuenta nueva no sea engorroso
 - Importancia de que trámite permita un buen servicio
