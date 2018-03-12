@@ -317,7 +317,7 @@ Cualitativo                                                                     
 | * **Clientes Milenials**  | Se mejoraron las preguntas, se tienen 2 versiones, se entrevistaron a 9 milenials  | https://drive.google.com/open?id=1QeA6FEg_6cdVH-MOIHRPIRsph81RmBi1_gYcqzByBoM       |
 | * **Stakeholders** | Se realizaron 4 entrevistas : CEO - Gerente de Operaciones - Product Manager  | https://drive.google.com/open?id=1mfBrjTp-LcUiF0Sdc4oY_IDgfnPlKijsuLT3EPyXjQE  |
 
-##### Conclusiones de entrevistas
+#### Conclusiones
 
 ```sh
 - Uso de servicios bancarios para manejar volúmenes grandes de dinero
@@ -340,7 +340,26 @@ Cualitativo                                                                     
 |Preguntas: | https://drive.google.com/open?id=1H1Dpg38wTcBQ0-Ekwco0b5edy9ma_gh6mZ4aM6qp7ws |
 |Formulario Google | <https://goo.gl/forms/x3nVF6e0PllB8XYj2>  |
 
+#### Conclusiones
 
+```sh
+- Para elegir un banco: buena atención, comisiones bajas, beneficios y buena información.
+- La decisión para abrir una cuenta a para compras, ordenar y administrar el dinero, y para recibir el sueldo .
+- La decisión de cambio de banco es por motivos de: excesivos cobros a la cuenta , irregularidades en el estado de cuenta y ofrecimiento de más operaciones gratuitas por otro banco.
+- La gran mayoría ya cuentan con una cuenta visa y/o mastercard
+- Importancia en abrir una cuenta de banco
+- Percepción de engorroso con respecto al del trámite de abrir una cuenta
+- Probarían una cuenta costo 0 , para organizar el dinero y tener beneficios
+- Importancia por las bajas tasas de cobros para abrir una cuenta
+- Abrir una cuenta para pagar servicios , educación y vivienda
+- Creen que la cuenta corriente/ahorro sirve para disponer de gastos a realizar, comprar y ahorrar.
+- No se encuentran informados completamente los beneficios de la cuenta de ahorro/corriente
+- Creen que es importante la seriedad, imagen, publicidad del banco por que les genera seguridad, confianza y buena atención al cliente
+- Diversidad de opciones en planes de cuentas que se ajusten a sus requerimientos.
+- Importancia de que trámite de una cuenta nueva no sea engorroso
+- Importancia de que trámite permita un buen servicio
+
+```
 
 #### Conclusiones Globales:
 
