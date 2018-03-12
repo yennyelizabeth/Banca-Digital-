@@ -25,18 +25,16 @@ Para ello se han propuesto **crear un banco 100% digital** dirigido para **Mille
 
 ### El Reto Nro 01
 #### 🚩 Tabla de contenido
-- [ORGANIZACIÓN PREVIA](#-organización-previa)
-- [INVESTIGACIÓN PREVIA](#-investigación-previa)
-- [MODELO DE NEGOCIO](#-modelo-de-negocio)
-- [STAKEHOLDERS](#-stakeholders)
-- [PLAN RESEARCH](#-plan-research)
-- [KICK OFF](#-kick-off)
+- [ORGANIZACIÓN PREVIA](#organización-previa)
+- [INVESTIGACIÓN PREVIA](#investigación-previa)
+- [MODELO DE NEGOCIO](#modelo-de-negocio)
+- [STAKEHOLDERS](#stakeholders)
+- [PLAN RESEARCH](#plan-research)
+- [CRONOGRAMA DE ACTIVIDADES](#cronograma-de-actividades)
+- [KICK OFF](#kick-off)
 
 #### ORGANIZACIÓN PREVIA
-| Organización | Descripción | Documentación  |
-| ----         | ----        | ----           |
-| **Actividades -Versión-Excel** | Se establecieron actividades de equipo| https://drive.google.com/open?id=17GFjk4fBbsan2_g4y1MJu7nC038aplgCa8I5V8H0RqM|
-| **Actividades - Versión-Trello** | Se establecieron actividades de equipo| https://github.com/PaoSil/Banca-Digital-/blob/master/assets/cronograma%20de%20actividades.png|
+
 
 #### INVESTIGACIÓN PREVIA
 | Investigación | Descripción | Documentación  |
@@ -50,31 +48,7 @@ Para ello se han propuesto **crear un banco 100% digital** dirigido para **Mille
 | **Banco Easy Bank** | Esta actualización se basa en los resultados de la investigación realizada| https://canvanizer.com/canvas/wS2ORNJ0yCUTP|
 
 
-
-
-
-* Ver Plan y versiones Link: <https://drive.google.com/open?id=1e7Q3W9qPoOao2gj6o22rM5MiZN78rKut>
-
-#### Cronograma de Actividades:
-
-Segun el Plan de Research.
-Link : <https://drive.google.com/open?id=1Lpo6ULJrrxEJYKSIvspR37oa_oGl_Adc>
-
-### Definición de Actividades:
-
-![image-2](https://github.com/PaoSil/Banca-Digital-/blob/master/assets/cronograma%20de%20actividades.png)
-
-### Planeamiento e Investigación:
-
-#### Descripción:
-
-Presentación de kickOff y conversaciones en el equipo para poder analizar cuáles serían las metodologías que se emplearían para poder llevar a cabo con éxito el reto asignado.
-
-#### Business Model Canvas:
-
-![image-3](https://github.com/PaoSil/Banca-Digital-/blob/master/assets/CANVAS%20-%20BANCA%20DIGITAL.png)
-
-#### Stakeholders:
+#### STAKEHOLDERS:
 
 Definiendo a nuestros principales  **STAKEHOLDERS**
 
@@ -108,7 +82,7 @@ Definiendo a nuestros principales  **STAKEHOLDERS**
 * **Disminución de reclamos**
 * **Atención las 24 horas**
 
-### Kick-off meeting:
+### KICK OFF MEETING:
 
 | Nombre del proyecto | Lugar de Reunion | Dueño del Proyecto | Fecha y hora |
 | :-----------------: | :--------------: | :----------------: | :----------: |
@@ -126,7 +100,7 @@ Definiendo a nuestros principales  **STAKEHOLDERS**
 | Gerente de Innovacion | Empleado | ser el primer banco digital en su telefono celular | Definir los lineamientos y politicas que deben cumplirse en lo referente a innovacion de la empresa | total autonomia y empoderamiento |
 | Gerente de Marketing | Empleado | Contar con un buen equipo de talento y la busqueda de tecnologia indicada para sus necesidades | Implementar las estrategias de marketing a corto y largo plazo de una empresa | total autonomia y empoderamiento |
 
-### Plan Research:
+### PLAN RESEARCH:
 ```sh
 
 | Objetivos                                                                                              |
@@ -198,10 +172,15 @@ Definiendo a nuestros principales  **STAKEHOLDERS**
 
 * Ver Plan y versiones Link: <https://drive.google.com/open?id=1e7Q3W9qPoOao2gj6o22rM5MiZN78rKut>
 
+
+
 #### Cronograma de Actividades:
 
-Segun el Plan de Research.
-Link : <https://drive.google.com/open?id=1Lpo6ULJrrxEJYKSIvspR37oa_oGl_Adc>
+| Organización | Descripción | Documentación  |
+| ----         | ----        | ----           |
+| **Actividades -Versión-Excel** | Se establecieron actividades de equipo| https://drive.google.com/open?id=17GFjk4fBbsan2_g4y1MJu7nC038aplgCa8I5V8H0RqM|
+| **Actividades - Versión-gráfico-trello** | Se establecieron actividades de equipo| https://github.com/PaoSil/Banca-Digital-/blob/master/assets/cronograma%20de%20actividades.png|
+
 
 ### El Reto Nro 02:
 #### 🚩 Tabla de contenido
