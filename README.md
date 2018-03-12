@@ -24,6 +24,7 @@ Para ello se han propuesto **crear un banco 100% digital** dirigido para **Mille
 - **Simple**. (https://www.simple.com/)
 
 ### Desarrollado para:
+<<<<<<< HEAD
 
 **El Product Manager** de El Banco el País.
 
@@ -32,13 +33,20 @@ Para ello se han propuesto **crear un banco 100% digital** dirigido para **Mille
 ![image-1](https://github.com/PaoSil/Banca-Digital-/blob/master/assets/proceso%20de%20desarrollo.jpg)
 
 ### Definición de Actividades:
+=======
+>>>>>>> b34372aa67bfefe521c658d238642cfa31c5112b
 
 ![image-2](https://github.com/PaoSil/Banca-Digital-/blob/master/assets/cronograma%20de%20actividades.png)
 
+<<<<<<< HEAD
 ### Planeamiento e Investigación:
+=======
+### Proceso de desarrollo:
+>>>>>>> b34372aa67bfefe521c658d238642cfa31c5112b
 
 #### Descripción:
 
+<<<<<<< HEAD
 Presentación de kickOff y conversaciones en el equipo para poder analizar cuáles serían las metodologías que se emplearían para poder llevar a cabo con éxito el reto asignado.
 
 #### Business Model Canvas:
@@ -157,6 +165,8 @@ Definiendo a nuestros principales  **STAKEHOLDERS**
 
 Segun el Plan de Research.
 Link : <https://drive.google.com/open?id=1Lpo6ULJrrxEJYKSIvspR37oa_oGl_Adc>
+=======
+>>>>>>> b34372aa67bfefe521c658d238642cfa31c5112b
 ### Definición de Actividades:
 
 ![image-2](https://github.com/PaoSil/Banca-Digital-/blob/master/assets/cronograma%20de%20actividades.png)
@@ -283,6 +293,12 @@ Definiendo a nuestros principales  **STAKEHOLDERS**
 
 Segun el Plan de Research.
 Link : <https://drive.google.com/open?id=1Lpo6ULJrrxEJYKSIvspR37oa_oGl_Adc>
+<<<<<<< HEAD
+=======
+
+
+
+>>>>>>> b34372aa67bfefe521c658d238642cfa31c5112b
 ### El Reto Nro 02:
 #### 🚩 Tabla de contenido
 - [Entrevistas](#entrevistas)
@@ -323,7 +339,7 @@ Link 6 - Google-Form: <https://goo.gl/forms/x3nVF6e0PllB8XYj2>
 ```
 
 #### Proceso Research:
-##### Cuantitativo 
+##### Cuantitativo
 | Cuantitativo                                                                                           |
 | :----------------------------------------------------------------------------------------------------: |
 * Revision de fuentes externas:
@@ -356,19 +372,18 @@ Link 6 - Google-Form: <https://goo.gl/forms/x3nVF6e0PllB8XYj2>
 
 | Nro | Conclusiones de Encuesta Online|
 | :-----------------: | :--------------: |
-| 1 | Lo aspectos para escoger un banco son: buena atención al cliente, comisiones y tarifas bajas, muchos beneficios y buena información | 
-| 2 | La decisión para abrir una cuenta es motivada principalmente para realizar compras, ordenar y administrar el dinero, y para recibir el sueldo | 
-| 3 | La decisión de cambio de banco es por motivos de: excesivos cobros a la cuenta , irregularidades en el estado de cuenta y ofrecimiento de más operaciones gratuitas por otro banco | 
-| 4 | La gran mayoría ya cuentan con una cuenta visa y/o mastercard | 
-| 5 | Importancia en abrir una cuenta de banco | 
-| 6 | Percepción de engorroso con respecto al del trámite de abrir una cuenta | 
-| 7 | Probarían una cuenta costo 0 , para organizar el dinero y tener beneficios | 
-| 8 | Importancia por las bajas tasas de cobros para abrir una cuenta | 
-| 9 | Abrir una cuenta para pagar servicios , educación y vivienda | 
-| 10 | Creen que la cuenta corriente/ahorro sirve para disponer de gastos a realizar, comprar y ahorrar | 
-| 11 | No se encuentran informados completamente los beneficios de la cuenta de ahorro/corriente | 
-| 12 | Creen que es importante la seriedad, imagen, publicidad del banco por que les genera seguridad, confianza y buena atención al cliente | 
-| 13 | Diversidad de opciones en planes de cuentas que se ajusten a sus requerimientos | 
-| 14 | Importancia de que trámite de una cuenta nueva no sea engorroso | 
-| 15 | Importancia de que trámite permita un buen servicio | 
-
+| 1 | Lo aspectos para escoger un banco son: buena atención al cliente, comisiones y tarifas bajas, muchos beneficios y buena información |
+| 2 | La decisión para abrir una cuenta es motivada principalmente para realizar compras, ordenar y administrar el dinero, y para recibir el sueldo |
+| 3 | La decisión de cambio de banco es por motivos de: excesivos cobros a la cuenta , irregularidades en el estado de cuenta y ofrecimiento de más operaciones gratuitas por otro banco |
+| 4 | La gran mayoría ya cuentan con una cuenta visa y/o mastercard |
+| 5 | Importancia en abrir una cuenta de banco |
+| 6 | Percepción de engorroso con respecto al del trámite de abrir una cuenta |
+| 7 | Probarían una cuenta costo 0 , para organizar el dinero y tener beneficios |
+| 8 | Importancia por las bajas tasas de cobros para abrir una cuenta |
+| 9 | Abrir una cuenta para pagar servicios , educación y vivienda |
+| 10 | Creen que la cuenta corriente/ahorro sirve para disponer de gastos a realizar, comprar y ahorrar |
+| 11 | No se encuentran informados completamente los beneficios de la cuenta de ahorro/corriente |
+| 12 | Creen que es importante la seriedad, imagen, publicidad del banco por que les genera seguridad, confianza y buena atención al cliente |
+| 13 | Diversidad de opciones en planes de cuentas que se ajusten a sus requerimientos |
+| 14 | Importancia de que trámite de una cuenta nueva no sea engorroso |
+| 15 | Importancia de que trámite permita un buen servicio |
