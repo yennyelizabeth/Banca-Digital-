@@ -237,7 +237,6 @@ ya existen en el mundo y en el pais.
 | ----       | ----        | ----           |
 | **Revisión de Banca Local** | Se recopiló información de fuentes externas | https://drive.google.com/open?id=17HY1Dj5HjIed0lpM-kvcn-rYLgyLp4mr |
 | **Revisión de Banca Internacional** | Se recopiló información de fuentes externas | https://drive.google.com/open?id=13MRdkhcngVuIswvNDnIQLjTmanbg5IeM |
-
 | **Análisis de la competencia** | Se obtuvo las siguientes conclusiones| https://drive.google.com/open?id=1nSEVeSe8hDfcEyLnD0IA0qssF6UlufWatdAkQ7c-7Wg |
 
 
@@ -254,7 +253,6 @@ A nivel Local
 - Distintas formas de navegar en menus y submenus tediosos
 - Contiene las principales operaciones frecuentes de clientes, más no todas
 - Problemas técnicos con la disponibilidad de la plataforma movil.
-- 
 ```
 
 A nivel Internacional
@@ -265,7 +263,6 @@ A nivel Internacional
 - Diseño de vistas interactivas ligeras de color y texto 
 - Diseño intuitivo
 - Navegación fácil.
-
 ```
 
 Cualitativo                                                                                             |
@@ -275,14 +272,15 @@ Cualitativo                                                                     
 #### 💾 Entrevistas Presenciales
 
 Se elaboraron guias de entrevistas, tomando en cuenta el Plan Research previamente definido.
-|Actividad        | Descripción | Documentación  |
-| ----               | ----      | ----           |
-| Elaboración de guias de entrevistas vs-01 | Según Plan Research      | https://drive.google.com/open?id=1rOEyyb45DPdhmGBpcZbBEgD91lZECB5vZA5ojatrl38  |
+
+|Actividad      | Descripción | Documentación  |
+| ----          | ----      | ----           |
+| Elaboración de guias de entrevistas vs-01 | Según Plan Research  | https://drive.google.com/open?id=1rOEyyb45DPdhmGBpcZbBEgD91lZECB5vZA5ojatrl38  |
 | Elaboración de guias de entrevistas vs-02  | Según resultados de research cuantitativo     | https://drive.google.com/open?id=1ChXH_gEtNoIzg3aAi3GHz5PqCnapBHc8 |
 
 
-| Entrevistados        | Descripción | Documentación  |
-| ----               | ----      | ----           |
+| Entrevistados  | Descripción | Documentación  |
+| ----           | ----        | ----           |
 | **Contexto Milenials** | Se observó la utilización de la banca online a una persona| https://drive.google.com/open?id=1QeA6FEg_6cdVH-MOIHRPIRsph81RmBi1_gYcqzByBoM       |
 | **Clientes Milenials**  | Se mejoraron las preguntas, se tienen 2 versiones, se entrevistaron a 9 milenials  | https://drive.google.com/open?id=1QeA6FEg_6cdVH-MOIHRPIRsph81RmBi1_gYcqzByBoM       |
 | **Stakeholders** | Se realizaron 4 entrevistas : CEO - Gerente de Operaciones - Product Manager  | https://drive.google.com/open?id=1mfBrjTp-LcUiF0Sdc4oY_IDgfnPlKijsuLT3EPyXjQE  |
