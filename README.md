@@ -1,7 +1,9 @@
-# 
-Una App “” .
+#   EASY BANK
+Es una app que te permite realizar operaciones bancarias rápidamente,
+configurando previamente através de un planificador y recibiendo 
+notificaciones para confirmar las operaciones.
 
-![Inicio](assets/images/img-readme/pantalla-uno.png)
+![Inicio](assets/inicio-easy-bank.png)
 
 ## Proyecto desarrollado en [Laboratoria](http://laboratoria.la)
 
