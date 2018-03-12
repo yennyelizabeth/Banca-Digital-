@@ -82,6 +82,9 @@ Para ello se han propuesto **crear un banco 100% digital** dirigido para **Mille
 * **Atención las 24 horas**
 
 ### PLAN RESEARCH:
+
+![Inicio-3](assets/Estrategia de negocio.png)
+
 ```sh
 | Objetivos                                                                                              |
 | :----------------------------------------------------------------------------------------------------: |
@@ -143,13 +146,16 @@ Para ello se han propuesto **crear un banco 100% digital** dirigido para **Mille
 
 
 ### KICK OFF MEETING:
-Descripción del Proyecto
+
+![Inicio-1](assets/kickoffmeeting.jpg)
+
+**Descripción del Proyecto**
 
 | Nombre del proyecto | Lugar de Reunion | Dueño del Proyecto | Fecha y hora |
 | :-----------------: | :--------------: | :----------------: | :----------: |
 | Banca Digital Easy Bank - "El Pais" | Banco "El Pais" | Paola Huaman - Yenny Quiñones | 25/02/2018 |
 
-Invitados del Proyecto
+**Invitados del Proyecto**
 
 | Invitados | Rol del proyecto |
 | :-------: | :--------------: | 			
@@ -163,7 +169,7 @@ Invitados del Proyecto
 |Gerente de innovacion	|	Empleado	|
 |Gerente de Marketing	|	Empleado	|
 
-Documentación de actividad
+**Documentación de actividad**
 
 | Actividad | Descripción | Documentación |
 | :-----------------: | :--------------: |  :--------------: | 
@@ -330,6 +336,8 @@ Del lado del cliente, y que el banco podría considerar
 ```
 #### 🚀 PROTOTIPO
 
+![Inicio-3](assets/ptype.jpg)
+
 ##### PAPEL
 | Prototipo | Descripción | Documentación  |
 | ----      | ----        | ----           |
@@ -339,8 +347,8 @@ Del lado del cliente, y que el banco podría considerar
 ##### FIGMA
 | Prototipo    | Descripción  | Documentación  |
 | ----         | ----         | ----           |
-| **Figma**    | Versión Nro 1  |https://www.figma.com/file/WIp8UZkHNyTZWMnxj5LDdlzq/Easy-Bank  |
-| **Figma**    | Versión Nro 2  |https://www.figma.com/file/WIp8UZkHNyTZWMnxj5LDdlzq/Easy-Bank?node-id=67%3A0|
+| **Figma**    | Versión 1  |https://www.figma.com/file/WIp8UZkHNyTZWMnxj5LDdlzq/Easy-Bank  |
+| **Figma**    | Versión 2  |https://www.figma.com/file/WIp8UZkHNyTZWMnxj5LDdlzq/Easy-Bank?node-id=67%3A0|
 
 ##### MARVEL
 | Prototipo        | Descripción    |Documentación   |
