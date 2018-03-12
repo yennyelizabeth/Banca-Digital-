@@ -3,7 +3,7 @@ Es una app que te permite realizar operaciones bancarias rápidamente,
 configurando previamente através de un planificador y recibiendo 
 notificaciones para confirmar las operaciones.
 
-![Inicio](assets/inicio-easy-bank.png)
+![Inicio](assets/inicio-easy-bank-1.png)
 
 ## Proyecto desarrollado en [Laboratoria](http://laboratoria.la)
 
@@ -24,7 +24,7 @@ Para ello se han propuesto **crear un banco 100% digital** dirigido para **Mille
 ## El Reto:
 
 * Identificar quienes son los **stakeholders** de tu proyecto.
-* Planear la reunion de **kick-off** detallando:
+* Planear la regunion de **kick-off** detallando:
   - ¿Quiénes deberían estar presentes?
   - ¿Qué les preguntarías a los presentes?
 
