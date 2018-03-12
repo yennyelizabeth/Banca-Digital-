@@ -204,6 +204,7 @@ Definiendo a nuestros principales  **STAKEHOLDERS**
 | Gerente de Marketing | Empleado | Contar con un buen equipo de talento y la busqueda de tecnologia indicada para sus necesidades | Implementar las estrategias de marketing a corto y largo plazo de una empresa | total autonomia y empoderamiento |
 
 ### Plan Research:
+```sh
 
 | Objetivos                                                                                              |
 | :----------------------------------------------------------------------------------------------------: |
@@ -270,6 +271,8 @@ Definiendo a nuestros principales  **STAKEHOLDERS**
 * **Disminución de reclamos**
 * **Atención las 24 horas**
 
+```
+
 * Ver Plan y versiones Link: <https://drive.google.com/open?id=1e7Q3W9qPoOao2gj6o22rM5MiZN78rKut>
 
 #### Cronograma de Actividades:
@@ -316,10 +319,12 @@ Cualitativo                                                                     
 
 #### 🌏 Encuestas Online
 
-| Encuestados       | Descripción | Documentación  |
-| ----              | ----      | ----          |
-| * **Milenials** | Se encuestaron a 19 milenials  | Preguntas: https://drive.google.com/open?id=1H1Dpg38wTcBQ0-Ekwco0b5edy9ma_gh6mZ4aM6qp7ws y Formulario Google <https://goo.gl/forms/x3nVF6e0PllB8XYj2>  |
-| * **Encuesta**     | Link 6 - Google-Form: <https://goo.gl/forms/x3nVF6e0PllB8XYj2> |
+| Encuestados       | Descripción  |
+| ----              | ----         |
+| * **Milenials** | Se encuestaron a 19 milenials  |
+|Preguntas: | https://drive.google.com/open?id=1H1Dpg38wTcBQ0-Ekwco0b5edy9ma_gh6mZ4aM6qp7ws |
+|Formulario Google | <https://goo.gl/forms/x3nVF6e0PllB8XYj2>  |
+
 
 
 #### Conclusiones Globales:
