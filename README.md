@@ -415,17 +415,17 @@ Cualitativo                                                                     
 
 
 
-| Prototipo        | Descripción | Documentación  |
-| ----               | ----      | ----           |
-| **Figma**  | Se utilizó figma para el prototipo  |   |
+| Prototipo       | Documentación  |
+| ----            | ----           |
+| **Figma**       | https://www.figma.com/file/WIp8UZkHNyTZWMnxj5LDdlzq/Easy-Bank  |
 
 ![Inicio](assets/prototipo/Figma/0-figma.png)
 
 
-| Prototipo        | Descripción | Documentación  |
-| ----               | ----      | ----           |
-| **Marvel Versión 1** | Se utilizó Marvel para la demo del prototipo versión 1 | |
-| **Marvel Versión 2** | Se utilizó Marvel para la demo del prototipo versión 2 | |
+| Prototipo        | Documentación  |
+| ----             | ----           |
+| **Marvel Versión 1** | https://marvelapp.com/62b5c01/screen/39523935 | |
+| **Marvel Versión 2** ||
 
 
 
@@ -438,7 +438,6 @@ Cualitativo                                                                     
   - [Marvel Versión 2](#marvel-versión-2)
 - [Testing](#testing)
   - [Testing Papel](#testing-papel)
-  - [Figma](#figma)
   - [Testing Marvel Versión 1](#testing-marvel-versión-1)
   - [Testing Marvel Versión 2](#testing-marvel-versión-2)
 
