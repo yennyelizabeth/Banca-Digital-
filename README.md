@@ -1,6 +1,6 @@
 #   EASY BANK
 Es una app que te permite realizar operaciones bancarias rápidamente,
-configurando previamente através de un planificador y recibiendo 
+configurando previamente através de un planificador y recibiendo
 notificaciones para confirmar las operaciones.
 
 ![Inicio](assets/inicio-easy-bank-1.png)
@@ -9,8 +9,7 @@ notificaciones para confirmar las operaciones.
 
 ## En  [Peru](http://peru.com)
 
-
-# Preeliminares
+# Preliminares
 
 ## Banca Digital "El País"
 
@@ -24,43 +23,31 @@ Para ello se han propuesto **crear un banco 100% digital** dirigido para **Mille
 - **Nubank**. (https://www.nubank.com.br/)
 - **Simple**. (https://www.simple.com/)
 
-### El Reto Nro 01:
-
-* Identificar quienes son los **stakeholders** de tu proyecto.
-* Planear la regunion de **kick-off** detallando:
-  - ¿Quiénes deberían estar presentes?
-  - ¿Qué les preguntarías a los presentes?
-
-El product manager encargado te ha pedido además que para la sesión de kick - off vengas con un **Business Model Canvas (hipotético)** del producto "Banco 100% digital", para que así los stakeholders puedan validar o invalidar las hipótesis o pedirte que te enfoques en validar alguna hipótesis durante la investigación.
-
-Además, te piden que llegues a la reunión de kick - off con un **plan propuesto de investigación**, en el que detalles qué actividades de investigación, según tu criterio se deberían realizar, sustentando el por qué propones c/u de esas actividades.
-
-#### Desarrollado para:
+### Desarrollado para:
 
 **El Product Manager** de El Banco el País.
 
-#### Proceso de desarrollo:
+### Proceso de desarrollo:
 
 ![image-1](https://github.com/PaoSil/Banca-Digital-/blob/master/assets/proceso%20de%20desarrollo.jpg)
-
-## Herramientas a utilizar:
-
-* Trello.
-* Canvanizer online.
 
 ### Definición de Actividades:
 
 ![image-2](https://github.com/PaoSil/Banca-Digital-/blob/master/assets/cronograma%20de%20actividades.png)
 
-Link 1: <https://trello.com/b/xFV1E75T/banca-digital-pais>
+### Planeamiento e Investigación:
 
-### Business Model Canvas:
+#### Descripción:
+
+Presentación de kickOff y conversaciones en el equipo para poder analizar cuáles serían las metodologías que se emplearían para poder llevar a cabo con éxito el reto asignado.
+
+#### Business Model Canvas:
 
 ![image-3](https://github.com/PaoSil/Banca-Digital-/blob/master/assets/CANVAS%20-%20BANCA%20DIGITAL.png)
 
-Link 2: <https://canvanizer.com/canvas/wdLcxWVebaK66>
+#### Stakeholders:
 
-### Identificar Stakeholders:
+Definiendo a nuestros principales  **STAKEHOLDERS**
 
 | Stakeholders | Descripción | Tipo |Rol |
 | :----------- | :---------: | :---------: | :----------: |
@@ -171,7 +158,7 @@ Link 2: <https://canvanizer.com/canvas/wdLcxWVebaK66>
 Segun el Plan de Research.
 Link : <https://drive.google.com/open?id=1Lpo6ULJrrxEJYKSIvspR37oa_oGl_Adc>
 
-![] ()
+
 
 ### El Reto Nro 02:
 #### 🚩 Tabla de contenido
@@ -213,7 +200,7 @@ Link 6 - Google-Form: <https://goo.gl/forms/x3nVF6e0PllB8XYj2>
 ```
 
 #### Proceso Research:
-##### Cuantitativo 
+##### Cuantitativo
 | Cuantitativo                                                                                           |
 | :----------------------------------------------------------------------------------------------------: |
 * Revision de fuentes externas:
@@ -246,19 +233,18 @@ Link 6 - Google-Form: <https://goo.gl/forms/x3nVF6e0PllB8XYj2>
 
 | Nro | Conclusiones de Encuesta Online|
 | :-----------------: | :--------------: |
-| 1 | Lo aspectos para escoger un banco son: buena atención al cliente, comisiones y tarifas bajas, muchos beneficios y buena información | 
-| 2 | La decisión para abrir una cuenta es motivada principalmente para realizar compras, ordenar y administrar el dinero, y para recibir el sueldo | 
-| 3 | La decisión de cambio de banco es por motivos de: excesivos cobros a la cuenta , irregularidades en el estado de cuenta y ofrecimiento de más operaciones gratuitas por otro banco | 
-| 4 | La gran mayoría ya cuentan con una cuenta visa y/o mastercard | 
-| 5 | Importancia en abrir una cuenta de banco | 
-| 6 | Percepción de engorroso con respecto al del trámite de abrir una cuenta | 
-| 7 | Probarían una cuenta costo 0 , para organizar el dinero y tener beneficios | 
-| 8 | Importancia por las bajas tasas de cobros para abrir una cuenta | 
-| 9 | Abrir una cuenta para pagar servicios , educación y vivienda | 
-| 10 | Creen que la cuenta corriente/ahorro sirve para disponer de gastos a realizar, comprar y ahorrar | 
-| 11 | No se encuentran informados completamente los beneficios de la cuenta de ahorro/corriente | 
-| 12 | Creen que es importante la seriedad, imagen, publicidad del banco por que les genera seguridad, confianza y buena atención al cliente | 
-| 13 | Diversidad de opciones en planes de cuentas que se ajusten a sus requerimientos | 
-| 14 | Importancia de que trámite de una cuenta nueva no sea engorroso | 
-| 15 | Importancia de que trámite permita un buen servicio | 
-
+| 1 | Lo aspectos para escoger un banco son: buena atención al cliente, comisiones y tarifas bajas, muchos beneficios y buena información |
+| 2 | La decisión para abrir una cuenta es motivada principalmente para realizar compras, ordenar y administrar el dinero, y para recibir el sueldo |
+| 3 | La decisión de cambio de banco es por motivos de: excesivos cobros a la cuenta , irregularidades en el estado de cuenta y ofrecimiento de más operaciones gratuitas por otro banco |
+| 4 | La gran mayoría ya cuentan con una cuenta visa y/o mastercard |
+| 5 | Importancia en abrir una cuenta de banco |
+| 6 | Percepción de engorroso con respecto al del trámite de abrir una cuenta |
+| 7 | Probarían una cuenta costo 0 , para organizar el dinero y tener beneficios |
+| 8 | Importancia por las bajas tasas de cobros para abrir una cuenta |
+| 9 | Abrir una cuenta para pagar servicios , educación y vivienda |
+| 10 | Creen que la cuenta corriente/ahorro sirve para disponer de gastos a realizar, comprar y ahorrar |
+| 11 | No se encuentran informados completamente los beneficios de la cuenta de ahorro/corriente |
+| 12 | Creen que es importante la seriedad, imagen, publicidad del banco por que les genera seguridad, confianza y buena atención al cliente |
+| 13 | Diversidad de opciones en planes de cuentas que se ajusten a sus requerimientos |
+| 14 | Importancia de que trámite de una cuenta nueva no sea engorroso |
+| 15 | Importancia de que trámite permita un buen servicio |
