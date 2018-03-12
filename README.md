@@ -411,6 +411,7 @@ Cualitativo                                                                     
 | **Papel** | Se prototipó utilizando papel| https://drive.google.com/open?id=1qX2YA43ZYbyjBQoFMiAqiXiYaHfZWblu|
 
 ![Inicio](assets/prototipo/Papel/0-papel.png)
+![Inicio](assets/prototipo/Papel/1-papel.png)
 
 
 
