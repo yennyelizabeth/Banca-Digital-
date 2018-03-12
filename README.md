@@ -48,9 +48,11 @@ Para ello se han propuesto **crear un banco 100% digital** dirigido para **Mille
 | **Banco Easy Bank** | Esta actualización se basa en los resultados de la investigación realizada| https://canvanizer.com/canvas/wS2ORNJ0yCUTP|
 
 
+<https://canvanizer.com/canvas/wS2ORNJ0yCUTP>
+
 #### STAKEHOLDERS:
 
-Definiendo a nuestros principales  **STAKEHOLDERS**
+![Inicio](assets/stakeholders1.jpg)
 
 | Stakeholders | Descripción | Tipo |Rol |
 | :----------- | :---------: | :---------: | :----------: |
