@@ -24,29 +24,13 @@ Para ello se han propuesto **crear un banco 100% digital** dirigido para **Mille
 - **Simple**. (https://www.simple.com/)
 
 ### Desarrollado para:
-<<<<<<< HEAD
-
-**El Product Manager** de El Banco el País.
-
-### Proceso de desarrollo:
-
-![image-1](https://github.com/PaoSil/Banca-Digital-/blob/master/assets/proceso%20de%20desarrollo.jpg)
-
-### Definición de Actividades:
-=======
->>>>>>> b34372aa67bfefe521c658d238642cfa31c5112b
 
 ![image-2](https://github.com/PaoSil/Banca-Digital-/blob/master/assets/cronograma%20de%20actividades.png)
 
-<<<<<<< HEAD
-### Planeamiento e Investigación:
-=======
 ### Proceso de desarrollo:
->>>>>>> b34372aa67bfefe521c658d238642cfa31c5112b
 
 #### Descripción:
 
-<<<<<<< HEAD
 Presentación de kickOff y conversaciones en el equipo para poder analizar cuáles serían las metodologías que se emplearían para poder llevar a cabo con éxito el reto asignado.
 
 #### Business Model Canvas:
@@ -292,12 +276,6 @@ Definiendo a nuestros principales  **STAKEHOLDERS**
 
 Segun el Plan de Research.
 Link : <https://drive.google.com/open?id=1Lpo6ULJrrxEJYKSIvspR37oa_oGl_Adc>
-<<<<<<< HEAD
-=======
-
-
-
->>>>>>> b34372aa67bfefe521c658d238642cfa31c5112b
 ### El Reto Nro 02:
 #### 🚩 Tabla de contenido
 - [Entrevistas](#entrevistas)
