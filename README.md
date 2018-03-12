@@ -282,7 +282,7 @@ Link : <https://drive.google.com/open?id=1Lpo6ULJrrxEJYKSIvspR37oa_oGl_Adc>
 
 ### El Reto Nro 02:
 #### 🚩 Tabla de contenido
-- [Proceso Research](#proceso-research)
+- [PROCESO RESEARCH](#proceso-research)
   - [Cuantitativo](#cuantitativo)
     - [Recopilación Data](#recopilación-data)
     - [Benchmarck](#benchmarck)
@@ -294,16 +294,15 @@ Link : <https://drive.google.com/open?id=1Lpo6ULJrrxEJYKSIvspR37oa_oGl_Adc>
     - [Conclusiones 3](#conclusiones-3)  
   - [Conclusiones 4](#conclusiones-4)
 
-- [Prototipo](#prototipo)
+- [PROTOTIPO](#prototipo)
   - [Papel](#papel)
   - [Figma](#figma)
-  - [Marvel Versión 1](#marvel-versión-1)
-  - [Marvel Versión 2](#marvel-versión-2)
-- [Testing](#testing)
-  - [Testing Papel](#PAPEL)
-  - [Testing Marvel](#MARVEL)
+  - [Figma](#marvel)
 
-### Proceso Research:
+- [TESTING](#testing)
+
+
+### PROCESO RESEARCH:
 
 | Cuantitativo                                                                                           |
 | :----------------------------------------------------------------------------------------------------: |
@@ -402,60 +401,36 @@ Cualitativo                                                                     
 | 15 | Importancia de que trámite permita un buen servicio |
 
 ```
-#### Prototipo
+#### PROTOTIPO
 
 ##### PAPEL
-
-| Prototipo        | Descripción | Documentación  |
-| ----               | ----      | ----           |
+| Prototipo | Descripción | Documentación  |
+| ----      | ----        | ----           |
 | **Papel** | Se prototipó utilizando papel| https://drive.google.com/open?id=1qX2YA43ZYbyjBQoFMiAqiXiYaHfZWblu|
 
 
-![Inicio](assets/prototipo/Papel/0-papel.png)
-
-
 ##### FIGMA
-
-
-| Prototipo       | Descripción  | Documentación  |
-| ----            | ----           | ----           |
-| **Figma**       | Versión Nro 1  |https://www.figma.com/file/WIp8UZkHNyTZWMnxj5LDdlzq/Easy-Bank  |
-| **Figma**       | Versión Nro 2  |https://www.figma.com/file/WIp8UZkHNyTZWMnxj5LDdlzq/Easy-Bank?node-id=67%3A0|
-
-![Inicio](assets/prototipo/Figma/0-figma.png)
-
-
+| Prototipo    | Descripción  | Documentación  |
+| ----         | ----         | ----           |
+| **Figma**    | Versión Nro 1  |https://www.figma.com/file/WIp8UZkHNyTZWMnxj5LDdlzq/Easy-Bank  |
+| **Figma**    | Versión Nro 2  |https://www.figma.com/file/WIp8UZkHNyTZWMnxj5LDdlzq/Easy-Bank?node-id=67%3A0|
 
 ##### MARVEL
-
 | Prototipo        | Descripción    |Documentación   |
 | ----             | ----           | ----           |
 | **Marvel** | Versión 1 | https://marvelapp.com/62b5c01/screen/39523935 | 
 | **Marvel** | Versión 2 | https://marvelapp.com/2ebd14e |
 
 
-#### 📙 Testing
+#### 📙 TESTING
 
-| Prototipo     | Descripción    |Documentación   |
-| ----             | ----           | ----           |
-| **Papel** | Versión 1 | https://marvelapp.com/62b5c01/screen/39523935 | 
+| Prototipo     | Resumen    | Documentación  |
+| ----          | ---        | ----           |
+| **Papel**     | Ordenar menú, mejorar iconos, mejorar mensajes | https://drive.google.com/open?id=19LqFxEE0xzQS1l2oX_m-GIBUgNizT4sD7LIeI_fdns8 | 
 
+| **Marvel-Vs-01** | mejorar colores, diseño, tipografía | https://drive.google.com/open?id=19LqFxEE0xzQS1l2oX_m-GIBUgNizT4sD7LIeI_fdns8  |
 
-| Prototipo     | Descripción    |Documentación   |
-| ----          | ----           | ----           |
-
-| **Marvel** | Versión 1 | https://marvelapp.com/2ebd14e |
+| **Marvel-Vs-02** | mejorar mensajes comunicados | https://drive.google.com/open?id=19LqFxEE0xzQS1l2oX_m-GIBUgNizT4sD7LIeI_fdns8  |
 
 
-| Prototipo  | Descripción    |Documentación   |
-| ----       | ----           | ----           |
-| **Marvel** | Versión 2 | https://marvelapp.com/2ebd14e |
-
-
-
-
-- [Testing](#testing)
-  - [Testing Papel](#testing-papel)
-  - [Testing Marvel Versión 1](#testing-marvel-versión-1)
-  - [Testing Marvel Versión 2](#testing-marvel-versión-2)
 
