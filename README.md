@@ -278,19 +278,35 @@ Segun el Plan de Research.
 Link : <https://drive.google.com/open?id=1Lpo6ULJrrxEJYKSIvspR37oa_oGl_Adc>
 ### El Reto Nro 02:
 #### 🚩 Tabla de contenido
-- [Entrevistas](#entrevistas)
 - [Proceso Research](#proceso-research)
-    - [Cuantitativo](#cuantitativo)
-    - [Cualitativo](#cualitativo)
-- [Features](#-features)
-    - [Productive Markdown mode](#productive-markdown-mode)
-    - [Easy WYSIWYG mode](#easy-wysiwyg-mode)
-    - [And more](#and-more)
+  - [Cuantitativo](#cuantitativo)
+    - [Recopilación Data](#recopilación-data)
+    - [Benchmarck](#benchmarck)
+
+  - [Cualitativo](#cualitativo)
+    - [Entrevistas Presenciales](#entrevistas-presenciales)
+    - [Encuestas Online](#cualitativo)
 
 
 
 
-#### ** Entrevistas **
+
+| Cuantitativo                                                                                           |
+| :----------------------------------------------------------------------------------------------------: |
+
+
+* Revision de fuentes externas:
+  - Recopilación de data
+  - Conclusiones
+  - Información de los servicios de la competencia ( Benchmark)
+
+
+
+Cualitativo                                                                                             |
+| :---------------------------------------------------------------------------------------------------: |
+
+
+#### 💾 Entrevistas Presenciales
 
 | Entrevistados        | Descripción | Documentación  |
 | ----               | ----      | ----           |
@@ -298,44 +314,16 @@ Link : <https://drive.google.com/open?id=1Lpo6ULJrrxEJYKSIvspR37oa_oGl_Adc>
 | * **Clientes Milenials**  | Se mejoraron las preguntas, se tienen 2 versiones, se entrevistaron a 9 milenials  | https://drive.google.com/open?id=1QeA6FEg_6cdVH-MOIHRPIRsph81RmBi1_gYcqzByBoM       |
 | * **Stakeholders** | Se realizaron 4 entrevistas : CEO - Gerente de Operaciones - Product Manager  | https://drive.google.com/open?id=1mfBrjTp-LcUiF0Sdc4oY_IDgfnPlKijsuLT3EPyXjQE  |
 
+#### 🌏 Encuestas Online
 
-
-#### **Encuesta Online**
 | Encuestados       | Descripción | Documentación  |
 | ----              | ----      | ----          |
 | * **Milenials** | Se encuestaron a 19 milenials  | Preguntas: https://drive.google.com/open?id=1H1Dpg38wTcBQ0-Ekwco0b5edy9ma_gh6mZ4aM6qp7ws y Formulario Google <https://goo.gl/forms/x3nVF6e0PllB8XYj2>  |
 | * **Encuesta**     | Link 6 - Google-Form: <https://goo.gl/forms/x3nVF6e0PllB8XYj2> |
 
 
+#### Conclusiones Globales:
 
-#### Proceso Research:
-##### Cuantitativo
-| Cuantitativo                                                                                           |
-| :----------------------------------------------------------------------------------------------------: |
-* Revision de fuentes externas:
-  - Recopilación de data
-  - Conclusiones
-  - Información de los servicios de la competencia ( Benchmark)
-
-##### Cualitativo
-
-| Cualitativo                                                                                            |
-| :----------------------------------------------------------------------------------------------------: |
-* Entrevistas , Encuestas y Conclusiones
-
-**A. Entrevistas**
-* **Clientes**
-
-- **Resumen**.
-- **Conclusiones**.
-
-
-* **Stakeholders Internos**
-
-- **Resumen**.
-- **Conclusiones**.
-
-* **Encuesta Online**
 
 - **Resumen**. <https://drive.google.com/open?id=1h4HykauWINu0Wbm87BaV5A-fSjTaS8Cv>
 - **Conclusiones**.
