@@ -192,12 +192,16 @@ Para ello se han propuesto **crear un banco 100% digital** dirigido para **Mille
     - [Conclusiones 3](#conclusiones-3)  
   - [Conclusiones 4](#conclusiones-4)
 
+- [USER PERSONAS](#-user-personas)
+- [CARACTERÍSTICAS DEL PRODUCTO](#-características-del-producto)
 - [PROTOTIPO](#-prototipo)
   - [Papel](#papel)
   - [Figma](#figma)
   - [Figma](#marvel) 
 
 - [TESTING](#-testing)
+
+
 
 
 #### 📜 PROCESO RESEARCH:
@@ -356,6 +360,26 @@ Del lado del cliente, y que el banco podría considerar
 | 6 | No se percatan mucho en el diseño de las aplicaciones, más si en su funcionalidad y disponibilidad.
 | 7 | Prefieren realizar operaciones bancarias según su organización y planificación .
 ```
+
+
+#### 🎨 USER PERSONAS
+Luego de haber realizado la investigación , se ha empatizado, y profundizado en las necesidades del cliente
+milenial,se ha establecido diagramas de user personas, que nos permitan elaborar un flujo para nuestro producto
+a proponer.
+
+| Actividad | Descripción | Documentación  |
+| ----      | ----        | ----           |
+| **Identificación de User Personas** | Se elaboró un cuadro reuniendo las carácterísticas del cliente| https://drive.google.com/open?id=15ZWV6NwrAeVvPRgWjG8lwqVmxtkkZ3Q45nGePc7inWs|
+
+
+#### 🎨 FEATURES
+Luego se ha elaborado un cuadro de características que tendrá nuestro producto digital "Easy Bank"
+
+| Actividad | Descripción | Documentación  |
+| ----      | ----        | ----           |
+| **Identificación de Caracteríticas** | Se elaboró un cuadro reuniendo las carácterísticas identificadas y priorizadas, según un producto mínimo viable| https://drive.google.com/open?id=1pjD6sqC9C07YnyVuNhpANZO32ITIvXlnrd3IAPFZO8I|
+
+
 #### 🚀 PROTOTIPO
 
 ![Inicio-3](assets/ptype.jpg)
