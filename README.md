@@ -410,32 +410,45 @@ Cualitativo                                                                     
 | ----               | ----      | ----           |
 | **Papel** | Se prototipó utilizando papel| https://drive.google.com/open?id=1qX2YA43ZYbyjBQoFMiAqiXiYaHfZWblu|
 
-![Inicio](assets/prototipo/Papel/0-papel.png)
-![Inicio](assets/prototipo/Papel/1-papel.png)
+|assets/prototipo/Papel/0-papel.png|
+
+![Inicio1](assets/prototipo/Papel/0-papel.png)
 
 
-
-| Prototipo       | Documentación  |
-| ----            | ----           |
-| **Figma**       | https://www.figma.com/file/WIp8UZkHNyTZWMnxj5LDdlzq/Easy-Bank  |
+| Prototipo       | Documentación  | Documentación  |
+| ----            | ----           | ----           |
+| **Figma**       | Versión Nro 1  |https://www.figma.com/file/WIp8UZkHNyTZWMnxj5LDdlzq/Easy-Bank  |
+| **Figma**       | Versión Nro 2  |https://www.figma.com/file/WIp8UZkHNyTZWMnxj5LDdlzq/Easy-Bank?node-id=67%3A0|
 
 ![Inicio](assets/prototipo/Figma/0-figma.png)
 
 
-| Prototipo        | Documentación  |
-| ----             | ----           |
-| **Marvel Versión 1** | https://marvelapp.com/62b5c01/screen/39523935 | |
-| **Marvel Versión 2** ||
+| Prototipo        | Descripción    |Documentación   |
+| ----             | ----           | ----           |
+| **Marvel** | Versión 1 | https://marvelapp.com/62b5c01/screen/39523935 | 
+| **Marvel** | Versión 2 | https://marvelapp.com/2ebd14e |
+
+
+#### 📙 Testing
+
+| Prototipo     | Descripción    |Documentación   |
+| ----             | ----           | ----           |
+| **Papel** | Versión 1 | https://marvelapp.com/62b5c01/screen/39523935 | 
+
+
+| Prototipo     | Descripción    |Documentación   |
+| ----          | ----           | ----           |
+
+| **Marvel** | Versión 1 | https://marvelapp.com/2ebd14e |
+
+
+| Prototipo  | Descripción    |Documentación   |
+| ----       | ----           | ----           |
+| **Marvel** | Versión 2 | https://marvelapp.com/2ebd14e |
 
 
 
 
-
-- [Prototipo](#prototipo)
-  - [Papel](#papel)
-  - [Figma](#figma)
-  - [Marvel Versión 1](#marvel-versión-1)
-  - [Marvel Versión 2](#marvel-versión-2)
 - [Testing](#testing)
   - [Testing Papel](#testing-papel)
   - [Testing Marvel Versión 1](#testing-marvel-versión-1)
