@@ -406,22 +406,29 @@ Cualitativo                                                                     
 ```
 #### Prototipo
 
+##### PAPEL
+
 | Prototipo        | Descripción | Documentación  |
 | ----               | ----      | ----           |
 | **Papel** | Se prototipó utilizando papel| https://drive.google.com/open?id=1qX2YA43ZYbyjBQoFMiAqiXiYaHfZWblu|
 
-|assets/prototipo/Papel/0-papel.png|
 
-![Inicio1](assets/prototipo/Papel/0-papel.png)
+![Inicio](assets/prototipo/Papel/0-papel.png)
 
 
-| Prototipo       | Documentación  | Documentación  |
+##### FIGMA
+
+
+| Prototipo       | Descripción  | Documentación  |
 | ----            | ----           | ----           |
 | **Figma**       | Versión Nro 1  |https://www.figma.com/file/WIp8UZkHNyTZWMnxj5LDdlzq/Easy-Bank  |
 | **Figma**       | Versión Nro 2  |https://www.figma.com/file/WIp8UZkHNyTZWMnxj5LDdlzq/Easy-Bank?node-id=67%3A0|
 
 ![Inicio](assets/prototipo/Figma/0-figma.png)
 
+
+
+##### MARVEL
 
 | Prototipo        | Descripción    |Documentación   |
 | ----             | ----           | ----           |
